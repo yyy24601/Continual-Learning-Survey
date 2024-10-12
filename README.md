@@ -1,4 +1,4 @@
-# Awesome-Continual-Learning-Paper
+# Awesome-Continual-Learning-Papers
 This is the temporary paper list of our paper ''_A Systematic Literature Review on Continual Learning_''. We will continue to add useful resources to this repo.
 The 'cites/year' values were calculated based on citation data available up to March 19, 2024. We will continue to update resources in this repo.
 
