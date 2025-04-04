@@ -2,11 +2,9 @@
 
 This is the paper list of our paper ''_A Systematic Literature Review on Continual Learning_''. 
 
-This repository will provide all paper links and released code links to help researchers interested in this area and continue to add useful resources to this repo.
+This repository covers a wide range of continual learning papers published from 2011 to the present and will provide all paper links and released code links to help researchers interested in this area and continue to add useful resources to this repo.
 
-All data are sourced from Google Scholar. However, the 'cites/year' values for most papers were calculated based on citation data accessed in 2024. 
-
-We will continue to update the data regularly in this repo.
+All data are sourced from Google Scholar. However, the 'cites/year' values for most papers were calculated based on citation data accessed in 2024. We will continue to update the data regularly in this repo.
 
 
 | NO. |Title| Venue| Year | code | cites/year |
