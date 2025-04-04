@@ -1,40 +1,40 @@
 # Awesome-Continual-Learning-Papers
 
-This is the temporary paper list of our paper ''_A Systematic Literature Review on Continual Learning_''. This repository will provide all paper links and released code links to help researchers interested in this area and continue to add useful resources to this repo.
+This is the paper list of our paper ''_A Systematic Literature Review on Continual Learning_''. This repository will provide all paper links and released code links to help researchers interested in this area and continue to add useful resources to this repo.
 The 'cites/year' values were calculated based on citation data available up to March 19, 2024. We will continue to update data in this repo.
 
-| NO. |                       Title                      | Venue  | Year | Code | cites/year |
+| NO. |                       Title                      | Venue  | Year | code | cites/year |
 |-----|:------------------------------------------------------------------------------------------------------------------------------------:|:--------:|:----:|------|------------|
 | 1 | A Comprehensive Survey of Continual Learning: Theory, Method and Application                 | TPAMI  | 2024 |  | 147    |
 | 2 | Continual Learning with Pre-Trained Models: A Survey                           | Arxiv  | 2024 |  | 1    |
-| 3 | Elastic Feature Consolidation For Cold Start Exemplar-Free Incremental Learning                  | ICLR   | 2024 | code | 0    |
+| 3 | Elastic Feature Consolidation For Cold Start Exemplar-Free Incremental Learning                  | ICLR   | 2024 | [code](https://github.com/simomagi/elastic_feature_consolidation) | 0    |
 | 4 | Function-space Parameterization of Neural Networks for Sequential Learning                   | ICLR   | 2024 |  | 0    |
 | 5 | Progressive Fourier Neural Representation for Sequential Video Compilation                   | ICLR   | 2024 |  | 0    |
 | 6 | Kalman Filter Online Classification from non-Stationary Data                         | ICLR   | 2024 |  | 0    |
 | 7 | Continual Momentum Filtering on Parameter Space for Online Test-time Adaptation                  | ICLR   | 2024 |  | 0    |
 | 8 | TAIL: Task-specific Adapters for Imitation Learning with Large Pretrained Models                 | ICLR   | 2024 |  | 0    |
-| 9 | Class Incremental Learning via Likelihood Ratio Based Task Prediction                      | ICLR   | 2024 | code | 1    |
+| 9 | Class Incremental Learning via Likelihood Ratio Based Task Prediction                      | ICLR   | 2024 | [code](https://github.com/linhaowei1/TPL) | 1    |
 | 10  | The Joint Effect of Task Similarity and Overparameterization on Catastrophic Forgetting — An Analytical Model        | ICLR   | 2024 |  | 2    |
-| 11  | Prediction Error-based Classification for Class-Incremental Learning                       | ICLR   | 2024 | code | 3    |
-| 12  | Adapting Large Language Models via Reading Comprehension                           | ICLR   | 2024 | code | 16   |
+| 11  | Prediction Error-based Classification for Class-Incremental Learning                       | ICLR   | 2024 | [code](https://github.com/michalzajac-ml/pec) | 3    |
+| 12  | Adapting Large Language Models via Reading Comprehension                           | ICLR   | 2024 | [code](https://github.com/microsoft/LMOps/tree/main/adaptllm) | 16   |
 | 13  | Accurate Forgetting for Heterogeneous Federated Continual Learning                       | ICLR   | 2024 |  | 0    |
 | 14  | Fixed Non-negative Orthogonal Classifier: Inducing Zero-mean Neural Collapse with Feature Dimension Separation       | ICLR   | 2024 |  | 0    |
 | 15  | A Probabilistic Framework for Modular Continual Learning                           | ICLR   | 2024 |  | 0    |
 | 16  | A Unified and General Framework for Continual Learning                           | ICLR   | 2024 |  | 0    |
 | 17  | Continual Learning on a Diet: Learning from Sparsely Labeled Streams Under Constrained Computation           | ICLR   | 2024 |  | 0    |
 | 18  | CPPO: Continual Learning for Reinforcement Learning with Human Feedback                      | ICLR   | 2024 |  | 0    |
-| 19  | Online Continual Learning for Interactive Instruction Following Agents                     | ICLR   | 2024 | code | 0    |
+| 19  | Online Continual Learning for Interactive Instruction Following Agents                     | ICLR   | 2024 | [code](https://github.com/snumprlab/cl-alfred) | 0    |
 | 20  | Scalable Language Model with Generalized Continual Learning                          | ICLR   | 2024 |  | 0    |
 | 21  | ViDA: Homeostatic Visual Domain Adapter for Continual Test Time Adaptation                   | ICLR   | 2024 |  | 9    |
-| 22  | Hebbian Learning based Orthogonal Projection for Continual Learning of Spiking Neural Networks             | ICLR   | 2024 | code | 0    |
+| 22  | Hebbian Learning based Orthogonal Projection for Continual Learning of Spiking Neural Networks             | ICLR   | 2024 | [code](https://github.com/pkuxmq/HLOP-SNN) | 0    |
 | 23  | TiC-CLIP: Continual Training of CLIP Models                              | ICLR   | 2024 |  | 3    |
 | 24  | Continual Learning in the Presence of Spurious Correlations: Analyses and a Simple Baseline              | ICLR   | 2024 |  | 0    |
 | 25  | Addressing Catastrophic Forgetting and Loss of Plasticity in Neural Networks                   | ICLR   | 2024 |  | 0    |
 | 26  | Locality Sensitive Sparse Encoding for Learning World Models Online                      | ICLR   | 2024 |  | 0    |
 | 27  | Dissecting learning and forgetting in language model finetuning                        | ICLR   | 2024 |  | 0    |
-| 28  | Prompt Gradient Projection for Continual Learning                            | ICLR   | 2024 | code | 0    |
+| 28  | Prompt Gradient Projection for Continual Learning                            | ICLR   | 2024 | [code](https://github.com/JingyangQiao/prompt-gradient-projection) | 0    |
 | 29  | Latent Trajectory Learning for Limited Timestamps under Distribution Shift over Time                 | ICLR   | 2024 |  | 0    |
-| 30  | Divide and not forget: Ensemble of selectively trained experts in Continual Learning                 | ICLR   | 2024 | code | 1    |
+| 30  | Divide and not forget: Ensemble of selectively trained experts in Continual Learning                 | ICLR   | 2024 | [code](https://github.com/grypesc/SEED) | 1    |
 | 31  | Towards Continual Learning Desiderata via HSIC-Bottleneck Orthogonalization and Equiangular Embedding          | AAAI   | 2024 |  | 0    |
 | 32  | Fine-Grained Knowledge Selection and Restoration for Non-Exemplar Class Incremental Learning             | AAAI   | 2024 |  | 0    |
 | 33  | Task-aware information routing from common representation space in lifelong learning                 | ICLR   | 2023 |  | 9    |
@@ -43,7 +43,7 @@ The 'cites/year' values were calculated based on citation data available up to M
 | 36  | Task-balanced batch normalization for exemplar-based classincremental learning                   | CVPR   | 2023 |  | 3    |
 | 37  | Introducing Language Guidance in Prompt-based Continual Learning                       | ICCV   | 2023 |  | 9    |
 | 38  | Symbolic replay: Scene graph as prompt for continual learning on vqa task                    | AAAI   | 2023 |  | 7.5    |
-| 39  | CODA-Prompt: COntinual Decomposed Attention-Based Prompting for Rehearsal-Free Continual Learning            | CVPR   | 2023 | code | 37   |
+| 39  | CODA-Prompt: COntinual Decomposed Attention-Based Prompting for Rehearsal-Free Continual Learning            | CVPR   | 2023 | [code](https://github.com/GT-RIPL/CODA-Prompt) | 37   |
 | 40  | Generating Instance-level Prompts for Rehearsal-free Continual Learning                    | ICCV   | 2023 |  | 4    |
 | 41  | Decouple Before Interact: Multi-Modal Prompt Learning for Continual Visual Question Answering              | ICCV   | 2023 |  | 3    |
 | 42  | Lightweight Prompt Learning with General Representation for Rehearsal-free Continual Learning              | NeurIPS  | 2023 |  | 0.5    |
@@ -60,8 +60,8 @@ The 'cites/year' values were calculated based on citation data available up to M
 | 53  | Saving 100x Storage: Prototype Replay for Reconstructing Training Sample Distribution in Class-Incremental Semantic Segmentation | NeurIPS  | 2023 |  | 1    |
 | 54  | A Data-Free Approach to Mitigate Catastrophic Forgetting in Federated Class Incremental Learning for Vision Tasks      | NeurIPS  | 2023 |  | 0    |
 | 55  | Few-Shot Class-Incremental Learning via Training-Free Prototype Calibration                    | NeurIPS  | 2023 |  | 3    |
-| 56  | A Unified Approach to Domain Incremental Learning with Memory: Theory and Algorithm                | NeurIPS  | 2023 | code | 2    |
-| 57  | Minimax Forward and Backward Learning of Evolving Tasks with Performance Guarantees                | NeurIPS  | 2023 | code | 0    |
+| 56  | A Unified Approach to Domain Incremental Learning with Memory: Theory and Algorithm                | NeurIPS  | 2023 | [code](https://github.com/Wang-ML-Lab/unified-continual-learning) | 2    |
+| 57  | Minimax Forward and Backward Learning of Evolving Tasks with Performance Guarantees                | NeurIPS  | 2023 | [code](https://github.com/MachineLearningBCAM/IMRCs-for-incremental-learning-NeurIPS-2023) | 0    |
 | 58  | Recasting Continual Learning as Sequence Modeling                            | NeurIPS  | 2023 |  | 2    |
 | 59  | Augmented Memory Replay-based Continual Learning Approaches for Network Intrusion Detection              | NeurIPS  | 2023 |  | 0    |
 | 60  | Does Continual Learning Meet Compositionality? New Benchmarks and An Evaluation Framework              | NeurIPS  | 2023 |  | 0    |
@@ -74,7 +74,7 @@ The 'cites/year' values were calculated based on citation data available up to M
 | 67  | FeCAM: Exploiting the Heterogeneity of Class Distributions in Exemplar-Free Continual Learning             | NeurIPS  | 2023 |  | 1    |
 | 68  | The Ideal Continual Learner: An Agent That Never Forgets                         | ICML   | 2023 |  | 12   |
 | 69  | Continual Learners are Incremental Model Generalizers                          | ICML   | 2023 |  | 2    |
-| 70  | Learnability and Algorithm for Continual Learning                            | ICML   | 2023 | code | 12   |
+| 70  | Learnability and Algorithm for Continual Learning                            | ICML   | 2023 | [code](https://github.com/k-gyuhak/CLOOD) | 12   |
 | 71  | Parameter-Level Soft-Masking for Continual Learning                            | ICML   | 2023 |  | 8    |
 | 72  | Continual Learning in Linear Classification on Separable Data                        | ICML   | 2023 |  | 6    |
 | 73  | DualHSIC: HSIC-Bottleneck and Alignment for Continual Learning                       | ICML   | 2023 |  | 4    |
@@ -86,58 +86,58 @@ The 'cites/year' values were calculated based on citation data available up to M
 | 79  | Continual Vision-Language Representation Learning with Off-Diagonal Information                  | ICML   | 2023 |  | 8    |
 | 80  | Prototype-Sample Relation Distillation: Towards Replay-Free Continual Learning                   | ICML   | 2023 |  | 4    |
 | 81  | Does Continual Learning Equally Forget All Parameters?                           | ICML   | 2023 |  | 7    |
-| 82  | Self-regulating Prompts: Foundational Model Adaptation without Forgetting                    | ICML   | 2023 | code | 22   |
-| 83  | Prototype Reminiscence and Augmented Asymmetric Knowledge Aggregation for Non-Exemplar Class-Incremental Learning      | ICML   | 2023 | code | 3    |
-| 84  | Tangent Model Composition for Ensembling and Continual Fine-tuning                       | ICML   | 2023 | code |    |
+| 82  | Self-regulating Prompts: Foundational Model Adaptation without Forgetting                    | ICML   | 2023 | [code](https://github.com/muzairkhattak/PromptSRC) | 22   |
+| 83  | Prototype Reminiscence and Augmented Asymmetric Knowledge Aggregation for Non-Exemplar Class-Incremental Learning      | ICML   | 2023 | [code](https://github.com/ShiWuxuan/PRAKA) | 3    |
+| 84  | Tangent Model Composition for Ensembling and Continual Fine-tuning                       | ICML   | 2023 | [code](https://github.com/tianyu139/tangent-model-composition) |    |
 | 85  | CBA: Improving Online Continual Learning via Continual Bias Adaptor                      | ICML   | 2023 |  | 2    |
-| 86  | CTP: Towards Vision-Language Continual Pretraining via Compatible Momentum Contrast and Topology Preservation        | ICML   | 2023 | code | 7    |
-| 87  | NAPA-VQ: Neighborhood Aware Prototype Augmentation with Vector Quantization for Continual Learning           | ICML   | 2023 | code | 0    |
+| 86  | CTP: Towards Vision-Language Continual Pretraining via Compatible Momentum Contrast and Topology Preservation        | ICML   | 2023 | [code](https://github.com/KevinLight831/CTP) | 7    |
+| 87  | NAPA-VQ: Neighborhood Aware Prototype Augmentation with Vector Quantization for Continual Learning           | ICML   | 2023 | [code](https://github.com/TamashaM/NAPA-VQ.git) | 0    |
 | 88  | Online Continual Learning on Hierarchical Label Expansion                          | ICML   | 2023 |  | 0    |
-| 89  | Class-Incremental Grouping Network for Continual Audio-Visual Learning                     | ICML   | 2023 | code | 4    |
-| 90  | Rapid Adaptation in Online Continual Learning: Are We Evaluating It Right?                   | ICML   | 2023 | code | 8    |
-| 91  | Online Class Incremental Learning on Stochastic Blurry Task Boundary via Mask and Visual Prompt Tuning           | ICML   | 2023 | code | 2    |
+| 89  | Class-Incremental Grouping Network for Continual Audio-Visual Learning                     | ICML   | 2023 | [code](https://github.com/stoneMo/CIGN) | 4    |
+| 90  | Rapid Adaptation in Online Continual Learning: Are We Evaluating It Right?                   | ICML   | 2023 | [code](https://github.com/drimpossible/EvalOCL) | 8    |
+| 91  | Online Class Incremental Learning on Stochastic Blurry Task Boundary via Mask and Visual Prompt Tuning           | ICML   | 2023 | [code](https://github.com/moonjunyyy/si-blurry) | 2    |
 | 92  | Dynamic Residual Classifier for Class Incremental Learning                         | ICML   | 2023 |  | 2    |
 | 93  | First Session Adaptation: A Strong Replay-Free Baseline for Class-Incremental Learning               | ICML   | 2023 |  | 8    |
 | 94  | Masked Autoencoders are Efficient Class Incremental Learners                         | ICML   | 2023 |  | 4    |
 | 95  | CLNeRF: Continual Learning Meets NeRFs                               | ICML   | 2023 |  | 2    |
-| 96  | Preventing Zero-Shot Transfer Degradation in Continual Learning of Vision-Language Models              | ICML   | 2023 | code | 16   |
+| 96  | Preventing Zero-Shot Transfer Degradation in Continual Learning of Vision-Language Models              | ICML   | 2023 | [code](https://github.com/Thunderbeee/ZSCL) | 16   |
 | 97  | LFS-GAN: Lifelong Few-Shot Image Generation                              | ICML   | 2023 |  | 1    |
 | 98  | TARGET: Federated Class-Continual Learning via Exemplar-Free Distillation                    | ICML   | 2023 |  | 3    |
 | 99  | Learning to Learn: How to Continuously Teach Humans and Machines                       | ICML   | 2023 |  | 1    |
-| 100 | Audio-Visual Class-Incremental Learning                                | ICML   | 2023 | code | 9    |
+| 100 | Audio-Visual Class-Incremental Learning                                | ICML   | 2023 | [code](https://github.com/weiguoPian/AV-CIL_ICCV2023) | 9    |
 | 101 | MetaGCD: Learning to Continually Learn in Generalized Category Discovery                     | ICML   | 2023 |  | 6    |
 | 102 | Exemplar-Free Continual Transformer with Convolutions                          | ICML   | 2023 |  | 3    |
 | 103 | A Unified Continual Learning Framework with General Parameter-Efficient Tuning                   | ICML   | 2023 |  | 14   |
 | 104 | Incremental Generalized Category Discovery                               | ICML   | 2023 |  | 10   |
-| 105 | Heterogeneous Forgetting Compensation for Class-Incremental Learning                     | ICML   | 2023 | code | 6    |
-| 106 | Augmented Box Replay: Overcoming Foreground Shift for Incremental Object Detection                 | ICML   | 2023 | code | 3    |
-| 107 | MRN: Multiplexed Routing Network for Incremental Multilingual Text Recognition                   | ICML   | 2023 | code | 3    |
-| 108 | CLR: Channel-wise Lightweight Reprogramming for Continual Learning                       | ICML   | 2023 | code | 0    |
+| 105 | Heterogeneous Forgetting Compensation for Class-Incremental Learning                     | ICML   | 2023 | [code](https://github.com/JiahuaDong/HFC) | 6    |
+| 106 | Augmented Box Replay: Overcoming Foreground Shift for Incremental Object Detection                 | ICML   | 2023 | [code](https://github.com/YuyangSunshine/ABR_IOD) | 3    |
+| 107 | MRN: Multiplexed Routing Network for Incremental Multilingual Text Recognition                   | ICML   | 2023 | [code](https://github.com/simplify23/MRN) | 3    |
+| 108 | CLR: Channel-wise Lightweight Reprogramming for Continual Learning                       | ICML   | 2023 | [code](https://github.com/gyhandy/Channel-wise-Lightweight-Reprogramming) | 0    |
 | 109 | ICICLE: Interpretable Class Incremental Continual Learning                         | ICML   | 2023 |  | 8    |
 | 110 | Proxy Anchor-based Unsupervised Learning for Continuous Generalized Category Discovery               | ICML   | 2023 |  | 4    |
-| 111 | SLCA: Slow Learner with Classifier Alignment for Continual Learning on a Pre-trained Model               | ICML   | 2023 | code | 15   |
-| 112 | Online Prototype Learning for Online Continual Learning                          | ICML   | 2023 | code | 6    |
+| 111 | SLCA: Slow Learner with Classifier Alignment for Continual Learning on a Pre-trained Model               | ICML   | 2023 | [code](https://github.com/GengDavid/SLCA) | 15   |
+| 112 | Online Prototype Learning for Online Continual Learning                          | ICML   | 2023 | [code](https://github.com/weilllllls/OnPro) | 6    |
 | 113 | Computationally Budgeted Continual Learning: What Does Matter?                       | CVPR   | 2023 |  | 26   |
 | 114 | Real-Time Evaluation in Online Continual Learning: A New Hope                        | CVPR   | 2023 |  | 12   |
-| 115 | Dealing With Cross-Task Class Discrimination in Online Continual Learning                    | CVPR   | 2023 | code | 8    |
-| 116 | Decoupling Learning and Remembering: A Bilevel Memory Framework With Knowledge Projection for Task-Incremental Learning    | CVPR   | 2023 | code | 3    |
+| 115 | Dealing With Cross-Task Class Discrimination in Online Continual Learning                    | CVPR   | 2023 | [code](https://github.com/gydpku/GSA) | 8    |
+| 116 | Decoupling Learning and Remembering: A Bilevel Memory Framework With Knowledge Projection for Task-Incremental Learning    | CVPR   | 2023 | [code](https://github.com/SunWenJu123/BMKP) | 3    |
 | 117 | GKEAL: Gaussian Kernel Embedded Analytic Learning for Few-shot Class Incremental Task                | CVPR   | 2023 |  | 8    |
 | 118 | EcoTTA: Memory-Efficient Continual Test-time Adaptation via Self-distilled Regularization              | CVPR   | 2023 |  | 31   |
 | 119 | Endpoints Weight Fusion for Class Incremental Semantic Segmentation                      | CVPR   | 2023 |  | 12   |
 | 120 | On the Stability-Plasticity Dilemma of Class-Incremental Learning                      | CVPR   | 2023 |  | 13   |
-| 121 | Regularizing Second-Order Influences for Continual Learning                        | CVPR   | 2023 | code | 5    |
+| 121 | Regularizing Second-Order Influences for Continual Learning                        | CVPR   | 2023 | [code](https://github.com/feifeiobama/InfluenceCL) | 5    |
 | 122 | Rebalancing Batch Normalization for Exemplar-based Class-Incremental Learning                  | CVPR   | 2023 |  | 5    |
 | 123 | Task Difficulty Aware Parameter Allocation & Regularization for Lifelong Learning                  | CVPR   | 2023 |  | 1    |
-| 124 | A Probabilistic Framework for Lifelong Test-Time Adaptation                        | CVPR   | 2023 | code | 17   |
+| 124 | A Probabilistic Framework for Lifelong Test-Time Adaptation                        | CVPR   | 2023 | [code](https://github.com/dhanajitb/petal) | 17   |
 | 125 | Continual Semantic Segmentation with Automatic Memory Sample Selection                     | CVPR   | 2023 |  | 13   |
 | 126 | Exploring Data Geometry for Continual Learning                             | CVPR   | 2023 |  | 1    |
-| 127 | PCR: Proxy-based Contrastive Replay for Online Class-Incremental Continual Learning                | CVPR   | 2023 | code | 17   |
-| 128 | Learning with Fantasy: Semantic-Aware Virtual Contrastive Constraint for Few-Shot Class-Incremental Learning       | CVPR   | 2023 | code | 16   |
+| 127 | PCR: Proxy-based Contrastive Replay for Online Class-Incremental Continual Learning                | CVPR   | 2023 | [code](https://github.com/FelixHuiweiLin/PCR) | 17   |
+| 128 | Learning with Fantasy: Semantic-Aware Virtual Contrastive Constraint for Few-Shot Class-Incremental Learning       | CVPR   | 2023 | [code](https://github.com/zysong0113/SAVC) | 16   |
 | 129 | Foundation Model Drives Weakly Incremental Learning for Semantic Segmentation                  | CVPR   | 2023 |  | 5    |
-| 130 | Continual Detection Transformer for Incremental Object Detection                       | CVPR   | 2023 | code | 20   |
+| 130 | Continual Detection Transformer for Incremental Object Detection                       | CVPR   | 2023 | [code](https://github.com/yaoyao-liu/CL-DETR) | 20   |
 | 131 | PIVOT: Prompting for Video Continual Learning                              | CVPR   | 2023 |  | 26   |
 | 132 | Principles of Forgetting in Domain-Incremental Semantic Segmentation in Adverse Weather Conditions           | CVPR   | 2023 |  | 4    |
-| 133 | Class-Incremental Exemplar Compression for Class-Incremental Learning                      | CVPR   | 2023 | code | 14   |
+| 133 | Class-Incremental Exemplar Compression for Class-Incremental Learning                      | CVPR   | 2023 | [code](https://github.com/xfflzl/CIM-CIL) | 14   |
 | 134 | Dense Network Expansion for Class Incremental Learning                           | CVPR   | 2023 |  | 10   |
 | 135 | Online Bias Correction for Task-Free Continual Learning                          | ICLR   | 2023 |  | 10   |
 | 136 | Sparse Distributed Memory is a Continual Learner                             | ICLR   | 2023 |  | 8    |
@@ -157,7 +157,7 @@ The 'cites/year' values were calculated based on citation data available up to M
 | 150 | Neural Collapse Inspired Feature-Classifier Alignment for Few-Shot Class-Incremental Learning              | ICLR   | 2023 |  | 47   |
 | 151 | On the Soft-Subnetwork for Few-Shot Class Incremental Learning                       | ICLR   | 2023 |  | 6    |
 | 152 | Error Sensitivity Modulation based Experience Replay: Mitigating Abrupt Representation Drift in Continual Learning     | ICLR   | 2023 |  | 9    |
-| 153 | Sparse Coding in a Dual Memory System for Lifelong Learning                        | AAAI   | 2023 | code | 7    |
+| 153 | Sparse Coding in a Dual Memory System for Lifelong Learning                        | AAAI   | 2023 | [code](https://github.com/NeurAI-Lab/SCoMMER) | 7    |
 | 154 | A Comprehensive Survey of Forgetting in Deep Learning Beyond Continual Learning                  | Arxiv  | 2023 |  | 9    |
 | 155 | Deep Class-Incremental Learning: A Survey                                | Arxiv  | 2023 |  | 74   |
 | 156 | Continual Learning: Applications and the Road Forward                            | Arxiv  | 2023 |  | 4    |
@@ -167,14 +167,14 @@ The 'cites/year' values were calculated based on citation data available up to M
 | 160 | Semantics-driven generative replay for few-shot class incremental learning                   | MM   | 2023 |  |    |
 | 161 | Continual learning via sequential function-space variational inference                     | ICML   | 2022 |  | 13.5   |
 | 162 | Uncertainty-aware contrastive distillation for incremental semantic segmentation                 | PAMI   | 2022 |  | 20   |
-| 163 | Class-incremental learning with cross-space clustering and controlled transfer                   | ECCV   | 2022 | code | 9    |
+| 163 | Class-incremental learning with cross-space clustering and controlled transfer                   | ECCV   | 2022 | [code](https://github.com/ashok-arjun/CSCCT) | 9    |
 | 164 | Class-incremental continual learning into the extended derverse                        | PAMI   | 2022 |  | 39.5   |
-| 165 | Continual pre-training of language models for math problem understanding with syntax-awre memory network         | ACL  | 2022 |  | 7.5    |
-| 166 | Energy-based latent aligner for incremental learning                           | CVPR   | 2022 | code | 17   |
+| 165 | Continual pre-training of language models for math problem understanding with syntax-aware memory network         | ACL  | 2022 |  | 7.5    |
+| 166 | Energy-based latent aligner for incremental learning                           | CVPR   | 2022 | [code](https://github.com/JosephKJ/ELI) | 17   |
 | 167 | Retrospective adversarial replay for continual learning                          | NeurIPS  | 2022 |  | 7.5    |
 | 168 | Gcr: Gradient coreset based replay buffer selection for continual learning                   | CVPR   | 2022 |  | 35   |
 | 169 | Bring evanescent representations to life in lifelong class incremental learning                  | CVPR   | 2022 |  | 10.5   |
-| 170 | Foster: Feature boosting and compression for class-incremental learning                      | ECCV   | 2022 | code | 61   |
+| 170 | Foster: Feature boosting and compression for class-incremental learning                      | ECCV   | 2022 | [code](https://github.com/G-U-N/ECCV22-FOSTER) | 61   |
 | 171 | Continual learning through retrieval and imagination                           | AAAI   | 2022 |  | 11.5   |
 | 172 | Self-sustaining representation expansion for non-exemplar class-incremental learning                 | CVPR   | 2022 |  | 38.5   |
 | 173 | Probing representation forgetting in supervised and unsupervised continual learning                | CVPR   | 2022 |  | 28.5   |
@@ -182,17 +182,17 @@ The 'cites/year' values were calculated based on citation data available up to M
 | 175 | Balancing stability and plasticity through advanced null space in continual learning                 | ECCV   | 2022 |  | 11   |
 | 176 | Towards better plasticity-stability trade-off in incremental learning: A simple linear connector             | CVPR   | 2022 |  | 12   |
 | 177 | Beyond not-forgetting: Continual learning with backward knowledge transfer                   | NeurIPS  | 2022 |  | 7    |
-| 178 | Mimicking the oracle: An initial phase decorrelation approach for class incremental learning             | CVPR   | 2022 | code | 20   |
+| 178 | Mimicking the oracle: An initial phase decorrelation approach for class incremental learning             | CVPR   | 2022 | [code](https://github.com/Yujun-Shi/CwD) | 20   |
 | 179 | Anti-retroactive interference for lifelong learning                            | ECCV   | 2022 |  | 4.5    |
 | 180 | Class-incremental learning with strong pre-trained models                          | CVPR   | 2022 |  | 23.5   |
-| 181 | Transfer without forgetting                                    | ECCV   | 2022 | code | 9.5    |
+| 181 | Transfer without forgetting                                    | ECCV   | 2022 | [code](https://github.com/mbosc/twf) | 9.5    |
 | 182 | Memory efficient continual learning with transformers                            | NeurIPS  | 2022 |  | 13   |
-| 183 | Self-supervised models are continual learners                              | CVPR   | 2022 | code | 50.5   |
+| 183 | Self-supervised models are continual learners                              | CVPR   | 2022 | [code](https://github.com/DonkeyShot21/cassle) | 50.5   |
 | 184 | The challenges of continuous self-supervised learning                            | ECCV   | 2022 |  | 14.5   |
 | 185 | Dlcft: Deep linear continual fine-tuning for general incremental learning                    | ECCV   | 2022 |  | 3.5    |
 | 186 | S-prompts learning with pre-trained transformers: An occam’s razor for domain incremental learning           | NeurIPS  | 2022 |  | 50   |
 | 187 | Meta-learning with less forgetting on large-scale non-stationary task distributions                | ECCV   | 2022 |  | 4    |
-| 188 | Dualprompt: Complementary prompting for rehearsal-free continual learning                    | ECCV   | 2022 | code | 99   |
+| 188 | Dualprompt: Complementary prompting for rehearsal-free continual learning                    | ECCV   | 2022 | [code](https://github.com/google-research/l2p) | 99   |
 | 189 | Learning to prompt for continual learning                                | CVPR   | 2022 |  | 174.5  |
 | 190 | Generative negative text replay for continual vision-language pretraining                    | ECCV   | 2022 |  | 5    |
 | 191 | Dytox: Transformers for continual learning with dynamic token expansion                      | CVPR   | 2022 |  | 92   |
@@ -200,14 +200,14 @@ The 'cites/year' values were calculated based on citation data available up to M
 | 193 | Helpful or harmful: Intertask association in continual learning                        | ECCV   | 2022 |  | 3.5    |
 | 194 | Forget-free continual learning with winning subnetworks                          | ICML   | 2022 |  | 25   |
 | 195 | Wide neural networks forget less catastrophically                            | ICLR   | 2022 |  | 20.5   |
-| 196 | Coscl: Cooperation of small continual learners is stronger than a big one                    | ECCV   | 2022 | code | 7    |
+| 196 | Coscl: Cooperation of small continual learners is stronger than a big one                    | ECCV   | 2022 | [code](https://github.com/lywang3081/CoSCL) | 7    |
 | 197 | Online Continual Learning through Mutual Information Maximization                      | ICML   | 2022 |  | 37   |
-| 198 | Prototype-guided continual adaptation for class-incremental unsupervised domain adaptation               | ICML   | 2022 | code | 11   |
+| 198 | Prototype-guided continual adaptation for class-incremental unsupervised domain adaptation               | ICML   | 2022 | [code](https://github.com/Hongbin98/ProCA) | 11   |
 | 199 | Improving Task-free Continual Learning by Distributionally Robust Memory Evolution                 | ICML   | 2022 |  | 15   |
 | 200 | NISPA: Neuro-Inspired Stability-Plasticity Adaptation for Continual Learning in Sparse Networks            | ICML   | 2022 |  | 14.5   |
-| 201 | A Theoretical Study on Solving Continual Learning                            | ICML   | 2022 | code | 19   |
+| 201 | A Theoretical Study on Solving Continual Learning                            | ICML   | 2022 | [code](https://github.com/k-gyuhak/WPTP) | 19   |
 | 202 | ACIL: Analytic Class-Incremental Learning with Absolute Memorization and Privacy Protection              | NeruIPS  | 2022 |  | 2.5    |
-| 203 | Margin-Based Few-Shot Class-Incremental Learning with Class-Level Overfitting Mitigation               | NeruIPS  | 2022 | code | 9.5    |
+| 203 | Margin-Based Few-Shot Class-Incremental Learning with Class-Level Overfitting Mitigation               | NeruIPS  | 2022 | [code](https://github.com/zoilsen/clom) | 9.5    |
 | 204 | Disentangling Transfer in Continual Reinforcement Learning                         | NeruIPS  | 2022 |  | 9.5    |
 | 205 | Task-Free Continual Learning via Online Discrepancy Distance Learning                      | NeruIPS  | 2022 |  | 9    |
 | 206 | A simple but strong baseline for online continual learning: Repeated Augmented Rehearsal               | NeruIPS  | 2022 |  | 16   |
@@ -215,36 +215,36 @@ The 'cites/year' values were calculated based on citation data available up to M
 | 208 | Few-Shot Continual Active Learning by a Robot                              | NeruIPS  | 2022 |  | 6.5    |
 | 209 | Continual learning: a feature extraction formalization, an efficient algorithm, and fundamental obstructions       | NeruIPS  | 2022 |  | 3.5    |
 | 210 | SparCL: Sparse Continual Learning on the Edge                              | NeruIPS  | 2022 |  | 15   |
-| 211 | CLiMB: A Continual Learning Benchmark for Vision-and-Language Tasks                      | NeruIPS  | 2022 | code | 18   |
-| 212 | Continual Learning In Environments With Polynomial Mixing Times                        | NeruIPS  | 2022 | code | 2.5    |
-| 213 | Exploring Example Influence in Continual Learning                            | NeruIPS  | 2022 | code | 12   |
+| 211 | CLiMB: A Continual Learning Benchmark for Vision-and-Language Tasks                      | NeruIPS  | 2022 | [code](https://github.com/GLAMOR-USC/CLiMB) | 18   |
+| 212 | Continual Learning In Environments With Polynomial Mixing Times                        | NeruIPS  | 2022 | [code](https://github.com/sharathraparthy/polynomial-mixing-times) | 2.5    |
+| 213 | Exploring Example Influence in Continual Learning                            | NeruIPS  | 2022 | [code](https://github.com/sssunqing/example_influence_cl) | 12   |
 | 214 | ALIFE: Adaptive Logit Regularizer and Feature Replay for Incremental Semantic Segmentation               | NeruIPS  | 2022 |  | 6    |
-| 215 | On the Effectiveness of Lipschitz-Driven Rehearsal in Continual Learning                     | NeruIPS  | 2022 | code | 11   |
+| 215 | On the Effectiveness of Lipschitz-Driven Rehearsal in Continual Learning                     | NeruIPS  | 2022 | [code](https://github.com/aimagelab/lider) | 11   |
 | 216 | On Reinforcement Learning and Distribution Matching for Fine-Tuning Language Models with no Catastrophic Forgetting      | NeruIPS  | 2022 |  | 11   |
-| 217 | CGLB: Benchmark Tasks for Continual Graph Learning                           | NeruIPS  | 2022 | code | 12   |
+| 217 | CGLB: Benchmark Tasks for Continual Graph Learning                           | NeruIPS  | 2022 | [code](https://github.com/QueuQ/CGLB) | 12   |
 | 218 | How Well Do Unsupervised Learning Algorithms Model Human Real-time and Life-long Learning?               | NeruIPS  | 2022 |  | 8.5    |
 | 219 | Helpful or Harmful: Inter-Task Association in Continual Learning                       | ECCV   | 2022 |  | 3.5    |
 | 220 | incDFM: Incremental Deep Feature Modeling for Continual Novelty Detection                    | ECCV   | 2022 |  | 2.5    |
 | 221 | S3C: Self-Supervised Stochastic Classifiers for Few-Shot Class-Incremental Learning                | ECCV   | 2022 |  | 9.5    |
-| 222 | Online Task-free Continual Learning with Dynamic Sparse Distributed Memory                   | ECCV   | 2022 | code | 5    |
+| 222 | Online Task-free Continual Learning with Dynamic Sparse Distributed Memory                   | ECCV   | 2022 | [code](https://github.com/Julien-pour/Dynamic-Sparse-Distributed-Memory) | 5    |
 | 223 | Balancing between Forgetting and Acquisition in Incremental Subpopulation Learning                 | ECCV   | 2022 |  | 3.5    |
-| 224 | R-DFCIL: Relation-Guided Representation Learning for Data-Free Class Incremental Learning              | ECCV   | 2022 | code | 20   |
+| 224 | R-DFCIL: Relation-Guided Representation Learning for Data-Free Class Incremental Learning              | ECCV   | 2022 | [code](https://github.com/jianzhangcs/r-dfcil) | 20   |
 | 225 | Learning with Recoverable Forgetting                                 | ECCV   | 2022 |  | 12   |
 | 226 | Long-Tailed Class Incremental Learning                               | ECCV   | 2022 |  | 8.5    |
 | 227 | Novel Class Discovery without Forgetting                               | ECCV   | 2022 |  | 14   |
 | 228 | Class-incremental Novel Class Discovery                                | ECCV   | 2022 |  | 15.5   |
 | 229 | Few-Shot Class Incremental Learning From an Open-Set Perspective                       | ECCV   | 2022 |  | 21.5   |
-| 230 | Few-Shot Class-Incremental Learning via Entropy-Regularized Data-Free Replay                   | ECCV   | 2022 | code | 23   |
+| 230 | Few-Shot Class-Incremental Learning via Entropy-Regularized Data-Free Replay                   | ECCV   | 2022 |  | 23   |
 | 231 | Online Continual Learning with Contrastive Vision Transformer                        | ECCV   | 2022 |  | 13.5   |
 | 232 | MgSvF: Multi-Grained Slow vs. Fast Framework for Few-Shot Class-Incremental Learning                 | TPAMI  | 2022 |  | 28.5   |
-| 233 | Class-Incremental Continual Learning into the eXtended DER-verse                       | TPAMI  | 2022 | code | 39.5   |
-| 234 | Few-Shot Class-Incremental Learning by Sampling Multi-Phase Tasks                      | TPAMI  | 2022 | code | 28   |
+| 233 | Class-Incremental Continual Learning into the eXtended DER-verse                       | TPAMI  | 2022 | [code](https://github.com/aimagelab/mammoth) | 39.5   |
+| 234 | Few-Shot Class-Incremental Learning by Sampling Multi-Phase Tasks                      | TPAMI  | 2022 | [code](https://github.com/zhoudw-zdw/TPAMI-Limit) | 28   |
 | 235 | Continual Semi-Supervised Learning through Contrastive Interpolation Consistency                 | CVPR   | 2022 |  | 9.5    |
 | 236 | Learning Bayesian Sparse Networks With Full Experience Replay for Continual Learning                 | CVPR   | 2022 |  | 14   |
 | 237 | Continual Learning With Lifelong Vision Transformer                            | CVPR   | 2022 |  | 23   |
 | 238 | Doodle It Yourself: Class Incremental Learning by Drawing a Few Sketches                     | CVPR   | 2022 |  | 13.5   |
 | 239 | Continual Learning for Visual Search with Backward Consistent Feature Embedding                  | CVPR   | 2022 |  | 7.5    |
-| 240 | Online Continual Learning on a Contaminated Data Stream with Blurry Task Boundaries                | CVPR   | 2022 | code | 15   |
+| 240 | Online Continual Learning on a Contaminated Data Stream with Blurry Task Boundaries                | CVPR   | 2022 |  | 15   |
 | 241 | Not Just Selection, but Exploration: Online Class-Incremental Continual Learning via Dual View Consistency         | CVPR   | 2022 |  | 21.5   |
 | 242 | Lifelong Graph Learning                                      | CVPR   | 2022 |  | 26.5   |
 | 243 | Lifelong Unsupervised Domain Adaptive Person Re-identification with Coordinated Anti-forgetting and Adaptation       | CVPR   | 2022 |  | 9.5    |
@@ -259,13 +259,13 @@ The 'cites/year' values were calculated based on citation data available up to M
 | 252 | Overcoming Catastrophic Forgetting in Incremental Object Detection via Elastic Response Distillation           | CVPR   | 2022 |  | 27   |
 | 253 | Meta-attention for ViT-backed Continual Learning                             | CVPR   | 2022 |  | 12.5   |
 | 254 | On Generalizing Beyond Domains in Cross-Domain Continual Learning                      | CVPR   | 2022 |  | 12   |
-| 255 | Incremental Transformer Structure Enhanced Image Inpainting with Masking Positional Encoding             | CVPR   | 2022 | code | 48   |
-| 256 | Forward Compatible Few-Shot Class-Incremental Learning                           | CVPR   | 2022 | code | 66   |
-| 257 | Federated Class-Incremental Learning                                 | CVPR   | 2022 | code | 43   |
+| 255 | Incremental Transformer Structure Enhanced Image Inpainting with Masking Positional Encoding             | CVPR   | 2022 | [code](https://github.com/DQiaole/ZITS_inpainting) | 48   |
+| 256 | Forward Compatible Few-Shot Class-Incremental Learning                           | CVPR   | 2022 | [code](https://github.com/zhoudw-zdw/CVPR22-Fact) | 66   |
+| 257 | Federated Class-Incremental Learning                                 | CVPR   | 2022 | [code](https://github.com/conditionWang/FCIL) | 43   |
 | 258 | Representation Compensation Networks for Continual Semantic Segmentation                     | CVPR   | 2022 |  | 33   |
 | 259 | Effects of Auxiliary Knowledge on Continual Learning                           | ICPR   | 2022 |  | 2.5    |
 | 260 | Continual Sequence Generation with Adaptive Compositional Modules                      | ACL  | 2022 |  | 10.5   |
-| 261 | Learngene: From Open-World to Your Learning Task                             | AAAI   | 2022 | code | 4.5    |
+| 261 | Learngene: From Open-World to Your Learning Task                             | AAAI   | 2022 | [code](https://github.com/BruceQFWang/learngene) | 4.5    |
 | 262 | Rethinking the Representational Continuity: Towards Unsupervised Continual Learning                | ICLR   | 2022 |  | 1    |
 | 263 | Looking Back on Learned Experiences For Class/task Incremental Learning                    | ICLR   | 2022 |  | 15.5   |
 | 264 | Continual Normalization: Rethinking Batch Normalization for Online Continual Learning                | ICLR   | 2022 |  | 21.5   |
@@ -280,7 +280,7 @@ The 'cites/year' values were calculated based on citation data available up to M
 | 273 | Information-theoretic Online Memory Selection for Continual Learning                     | ICLR   | 2022 |  | 18   |
 | 274 | Subspace Regularizers for Few-Shot Class Incremental Learning                        | ICLR   | 2022 |  | 20   |
 | 275 | LFPT5: A Unified Framework for Lifelong Few-shot Language Learning Based on Prompt Tuning of T5            | ICLR   | 2022 |  | 26.5   |
-| 276 | Class-incremental learning: survey and performance evaluation                        | TPAMI  | 2022 | code | 229.5  |
+| 276 | Class-incremental learning: survey and performance evaluation                        | TPAMI  | 2022 | [code](https://github.com/mmasana/FACIL) | 229.5  |
 | 277 | Uncertainty-guided semi-supervised few-shot class-incremental learning with knowledge distillation           | MM   | 2022 |  |    |
 | 278 | Ss-il: Separated softmax for incremental learning                            | ICCV   | 2021 |  | 51   |
 | 279 | Rainbow memory: Continual learning with a memory of diverse samples                      | CVPR   | 2021 |  | 80.67  |
@@ -288,7 +288,7 @@ The 'cites/year' values were calculated based on citation data available up to M
 | 281 | Using hindsight to anchor past knowledge in continual learning                         | AAAI   | 2021 |  | 63.33  |
 | 282 | Distilling causal effect of data in class-incremental learning                         | CVPR   | 2021 |  | 57.33  |
 | 283 | Gradient-based editing of memory examples for online task-free continual learning                  | NeurIPS  | 2021 |  | 24.00  |
-| 284 | Online class-incremental continual learning with adversarial shapley value                   | AAAI   | 2021 | code | 48.67  |
+| 284 | Online class-incremental continual learning with adversarial shapley value                   | AAAI   | 2021 | [code](https://github.com/RaptorMai/online-continual-learning) | 48.67  |
 | 285 | On learning the geodesic path for incremental learning                           | CVPR   | 2021 |  | 30.67  |
 | 286 | Layerwise optimization by gradient decomposition for continual learning                      | CVPR   | 2021 |  | 17.67  |
 | 287 | Rehearsal revealed: The limits and merits of revisiting samples in continual learning                | ICCV   | 2021 |  | 23.33  |
@@ -311,9 +311,9 @@ The 'cites/year' values were calculated based on citation data available up to M
 | 304 | Bayesian structural adaptation for continual learning                            | ICML   | 2021 |  | 8.33   |
 | 305 | Continual learning with filter atom swapping                               | ICLR   | 2021 |  | 7.00   |
 | 306 | Continual learning via local module composition                              | NeurIPS  | 2021 |  | 16.67  |
-| 307 | Bns: Building network structures dynamically for contin- ual learning                      | NeurIPS  | 2021 |  | 9.33   |
+| 307 | Bns: Building network structures dynamically for continual learning                      | NeurIPS  | 2021 |  | 9.33   |
 | 308 | Model zoo: A growing brain that learns continually                             | ICLR   | 2021 |  | 13.00  |
-| 309 | Incremental Object Detection via Meta-Learning                             | NueraIPS | 2021 | code | 29.33  |
+| 309 | Incremental Object Detection via Meta-Learning                             | NueraIPS | 2021 | [code](https://github.com/JosephKJ/iOD) | 29.33  |
 | 310 | A Procedural World Generation Framework for Systematic Evaluation of Continual Learning                | NueraIPS | 2021 |  | 2.00   |
 | 311 | Class-Incremental Learning via Dual Augmentation                             | NueraIPS | 2021 |  | 33.00  |
 | 312 | SSUL: Semantic Segmentation with Unknown Label for Exemplar-based Class-Incremental Learning             | NueraIPS | 2021 |  | 16.33  |
@@ -328,13 +328,13 @@ The 'cites/year' values were calculated based on citation data available up to M
 | 321 | BooVAE: Boosting Approach for Continual Learning of VAE                          | NueraIPS | 2021 |  | 7.67   |
 | 322 | Generative vs. Discriminative: Rethinking The Meta-Continual Learning                      | NueraIPS | 2021 |  | 4.67   |
 | 323 | Achieving Forgetting Prevention and Knowledge Transfer in Continual Learning                   | NueraIPS | 2021 |  | 24.33  |
-| 324 | Bridging Non Co-occurrence with Unlabeled In-the-wild Data for Incremental Object Detection              | NueraIPS | 2021 | code | 6.33   |
+| 324 | Bridging Non Co-occurrence with Unlabeled In-the-wild Data for Incremental Object Detection              | NueraIPS | 2021 | [code](https://github.com/dongnana777/Bridging-Non-Co-occurrence) | 6.33   |
 | 325 | Striking a Balance between Stability and Plasticity for Class-Incremental Learning                 | ICCV   | 2021 |  | 15.00  |
 | 326 | Synthesized Feature based Few-Shot Class-Incremental Learning on a Mixture of Subspaces                | ICCV   | 2021 |  | 18.67  |
 | 327 | Class-Incremental Learning for Action Recognition in Videos                        | ICCV   | 2021 |  | 12.33  |
 | 328 | Continual Prototype Evolution:Learning Online from Non-Stationary Data Streams                   | ICCV   | 2021 |  | 54.67  |
 | 329 | Wanderlust: Online Continual Object Detection in the Real World                        | ICCV   | 2021 |  | 1.00   |
-| 330 | Continual Learning on Noisy Data Streams via Self-Purified Replay                      | ICCV   | 2021 | code | 9.67   |
+| 330 | Continual Learning on Noisy Data Streams via Self-Purified Replay                      | ICCV   | 2021 |  | 9.67   |
 | 331 | Else-Net: Elastic Semantic Network for Continual Action Recognition from Skeleton Data               | ICCV   | 2021 |  | 13.67  |
 | 332 | Detection and Continual Learning of Novel Face Presentation Attacks                      | ICCV   | 2021 |  | 12.00  |
 | 333 | Online Continual Learning with Natural Distribution Shifts: An Empirical Study with Visual Data            | ICCV   | 2021 |  | 19.67  |
@@ -349,8 +349,8 @@ The 'cites/year' values were calculated based on citation data available up to M
 | 342 | Variational Auto-Regressive Gaussian Processes for Continual Learning                      | ICML   | 2021 |  | 7.00   |
 | 343 | Continual Learning in the Teacher-Student Setup: Impact of Task Similarity                   | ICML   | 2021 |  | 15.00  |
 | 344 | Federated Continual Learning with Weighted Inter-client Transfer                       | ICML   | 2021 |  | 43.00  |
-| 345 | Towards Open World Object Detection                                | CVPR   | 2021 | code | 127.00   |
-| 346 | Prototype Augmentation and Self-Supervision for Incremental Learning                     | CVPR   | 2021 | code | 77.00  |
+| 345 | Towards Open World Object Detection                                | CVPR   | 2021 | [code](https://github.com/JosephKJ/OWOD) | 127.00   |
+| 346 | Prototype Augmentation and Self-Supervision for Incremental Learning                     | CVPR   | 2021 | [code](https://github.com/Impression2805/CVPR21_PASS) | 77.00  |
 | 347 | Incremental Learning via Rate Reduction                                | CVPR   | 2021 |  | 10.33  |
 | 348 | IIRC: Incremental Implicitly-Refined Classification                            | CVPR   | 2021 |  | 11.00  |
 | 349 | Continual Adaptation of Visual Representations via Domain Randomization and Meta-learning              | CVPR   | 2021 |  | 21.67  |
@@ -370,7 +370,7 @@ The 'cites/year' values were calculated based on citation data available up to M
 | 363 | Continual Semantic Segmentation via Repulsion-Attraction of Sparse and Disentangled Latent Representations         | CVPR   | 2021 |  | 40.67  |
 | 364 | Lifelong and Continual Learning Dialogue Systems: Learning during Conversation                   | AAAI   | 2021 |  | 15.67  |
 | 365 | Continual learning for named entity recognition                            | AAAI   | 2021 |  | 19.33  |
-| 366 | Split-and-Bridge: Adaptable Class Incremental Learning within a Single Neural Network                | AAAI   | 2021 | code | 6.67   |
+| 366 | Split-and-Bridge: Adaptable Class Incremental Learning within a Single Neural Network                | AAAI   | 2021 | [code](https://github.com/bigdata-inha/Split-and-Bridge) | 6.67   |
 | 367 | Curriculum-Meta Learning for Order-Robust Continual Relation Extraction                    | AAAI   | 2021 |  | 16.67  |
 | 368 | Continual Learning by Using Information of Each Class Holistically                       | AAAI   | 2021 |  | 17.33  |
 | 369 | Gradient Regularized Contrastive Learning for Continual Domain Adaptation                    | AAAI   | 2021 |  | 13.00  |
@@ -388,19 +388,19 @@ The 'cites/year' values were calculated based on citation data available up to M
 | 381 | Overcoming catastrophic forgetting by neuron-level plasticity control                      | AAAI   | 2020 |  | 8.25   |
 | 382 | Continual learning with node-importance based adaptive group sparse regularization                 | NeruIPS  | 2020 |  | 21.00  |
 | 383 | Memory-efficient incremental learning through feature adaptation                       | ECCV   | 2020 |  | 35.25  |
-| 384 | Podnet: Pooled outputs distillation for small-tasks incremental learning                     | ECCV   | 2020 | code | 130.75   |
-| 385 | Dark experience for general continual learning: a strong, simple baseline                    | NeruIPS  | 2020 | code | 145.75   |
+| 384 | Podnet: Pooled outputs distillation for small-tasks incremental learning                     | ECCV   | 2020 | [code](https://github.com/arthurdouillard/incremental_learning.pytorch) | 130.75   |
+| 385 | Dark experience for general continual learning: a strong, simple baseline                    | NeruIPS  | 2020 | [code](https://github.com/aimagelab/mammoth) | 145.75   |
 | 386 | Continual deep learning by functional regularisation of memorable past                     | NeruIPS  | 2020 |  | 29.50  |
 | 387 | Eec: Learning to encode and regenerate images for continual learning                       | ICLR   | 2020 |  | 11.25  |
 | 388 | Coresets via bilevel optimization for continual learning and streaming                     | NeurIPS  | 2020 |  | 45.00  |
 | 389 | Online learned continual compression with adaptive quantization modules                      | ICML   | 2020 |  | 16.50  |
 | 390 | Gan memory with no forgetting                                    | NeurIPS  | 2020 |  | 26.00  |
 | 391 | Remembering for the right reasons: Explanations reduce catastrophic forgetting                   | ICLR   | 2020 |  | 10.75  |
-| 392 | Remind your neural network to prevent catastrophic frogetting                        | ECCV   | 2020 |  | 64.00  |
-| 393 | Mnemonics training: Multi-class incremental learning without forgetting                      | CVPR   | 2020 | code | 78.50  |
+| 392 | Remind your neural network to prevent catastrophic forgetting                        | ECCV   | 2020 |  | 64.00  |
+| 393 | Mnemonics training: Multi-class incremental learning without forgetting                      | CVPR   | 2020 | [code](https://github.com/yaoyao-liu/mnemonics) | 78.50  |
 | 394 | Gradient projection memory for continual learning                            | ICLR   | 2020 |  | 68.67  |
-| 395 | Learning latent representations across multiple data domains using lifelong vaegan                 | ECCV   | 2020 |  | 15.50  |
-| 396 | Semantic drift compensation for class-incremental learning                         | CVPR   | 2020 | code | 66.25  |
+| 395 | Learning latent representations across multiple data domains using lifelong VAEGAN                 | ECCV   | 2020 |  | 15.50  |
+| 396 | Semantic drift compensation for class-incremental learning                         | CVPR   | 2020 | [code](https://github.com/yulu0724/SDC-IL) | 66.25  |
 | 397 | Maintaining discrimination and fairness in class incremental learning                      | CVPR   | 2020 |  | 89.25  |
 | 398 | Online fast adaptation and knowledge accumulation (osaka): a new approach to continual learning            | NeurIPS  | 2020 |  | 18.00  |
 | 399 | Continual learning in low-rank orthogonal subspaces                            | NeurIPS  | 2020 |  | 22.75  |
@@ -409,20 +409,20 @@ The 'cites/year' values were calculated based on citation data available up to M
 | 402 | Linear mode connectivity in multitask and continual learning                         | ICLR   | 2020 |  | 23.00  |
 | 403 | Understanding the role of training regimes in continual learning                       | NeurIPS  | 2020 |  | 43.00  |
 | 404 | What is being transferred in transfer learning?                              | NeurIPS  | 2020 |  | 99.25  |
-| 405 | itaml: An incremental task-agnostic meta-learning approach                         | CVPR   | 2020 | code | 38.25  |
+| 405 | itaml: An incremental task-agnostic meta-learning approach                         | CVPR   | 2020 | [code](https://github.com/brjathu/iTAML) | 38.25  |
 | 406 | Sharpness-aware minimization for efficiently improving generalization                      | ICLR   | 2020 |  | 249.25   |
 | 407 | Side-tuning: a baseline for network adaptation via additive side networks                    | ECCV   | 2020 |  | 34.25  |
 | 408 | On leveraging pretrained gans for generation with limited data                         | ICML   | 2020 |  | 22.25  |
-| 409 | Adversarial continual learning                                   | ECCV   | 2020 | code | 45.00  |
+| 409 | Adversarial continual learning                                   | ECCV   | 2020 | [code](https://github.com/facebookresearch/Adversarial-Continual-Learning) | 45.00  |
 | 410 | Reparameterizing convolutions for incremental multi-task learning without task interference              | ECCV   | 2020 |  | 17.25  |
 | 411 | Conditional channel gated networks for task-aware continual learning                       | CVPR   | 2020 |  | 47.50  |
 | 412 | Calibrating cnns for lifelong learning                                 | NeurIPS  | 2020 |  | 17.00  |
 | 413 | Efficient continual learning with modular networks and task-driven priors                    | ICLR   | 2020 |  | 20.25  |
 | 414 | Supermasks in superposition                                    | NeurIPS  | 2020 |  | 58.00  |
-| 415 | Continual Learning of a Mixed Sequence of Similar and Dissimilar Tasks                     | NeurIPS  | 2020 | code | 26.75  |
+| 415 | Continual Learning of a Mixed Sequence of Similar and Dissimilar Tasks                     | NeurIPS  | 2020 | [code](https://github.com/ZixuanKe/CAT) | 26.75  |
 | 416 | RATT: Recurrent Attention to Transient Tasks for Continual Image Captioning                    | NeurIPS  | 2020 |  | 10.25  |
 | 417 | Mitigating Forgetting in Online Continual Learning via Instance-Aware Parameterization               | NeurIPS  | 2020 |  | 8.00   |
-| 418 | REMIND Your Neural Network to Prevent Catastrophic Forgetting                        | ECCV   | 2020 | code | 64.00  |
+| 418 | REMIND Your Neural Network to Prevent Catastrophic Forgetting                        | ECCV   | 2020 | [code](https://github.com/tyler-hayes/REMIND) | 64.00  |
 | 419 | Incremental Meta-Learning via Indirect Discriminant Alignment                        | ECCV   | 2020 |  | 6.50   |
 | 420 | Learning latent representions across multiple data domains using Lifelong VAEGAN                 | ECCV   | 2020 |  | 15.50  |
 | 421 | Online Continual Learning under Extreme Memory Constraints                         | ECCV   | 2020 |  | 16.00  |
@@ -444,13 +444,13 @@ The 'cites/year' values were calculated based on citation data available up to M
 | 437 | A Neural Dirichlet Process Mixture Model for Task-Free Continual Learning                    | ICLR   | 2020 |  | 52.00  |
 | 438 | Compositional Continual Language Learning                                | ICLR   | 2020 |  | 1.50   |
 | 439 | LAMOL: LAnguage MOdeling for Lifelong Language Learning                          | ICLR   | 2020 |  | 43.75  |
-| 440 | Online fast adaptation and knowledge accumulation (OSAKA):A new approach to continual learning             | NeurIPS  | 2020 |  | 18.00  |
+| 440 | Rethinking Experience Replay: A Bag of Tricks for Continual Learning             | ICPR  | 2020 |  | 38  |
 | 441 | Unsupervised Model Personalization While Preserving Privacy and Scalability: An Open Problem             | CVPR   | 2020 |  | 6.75   |
 | 442 | Neural Topic Modeling with Continual Lifelong Learning                           | ICML   | 2020 |  | 9.25   |
 | 443 | Continual learning by asymmetric loss approximation with single-side overestimation                | ICCV   | 2019 |  | 7.00   |
 | 444 | Continual learning with adaptive weights (claw)                              | ICLR   | 2019 |  | 14.00  |
 | 445 | Learning without memorizing                                    | CVPR   | 2019 |  | 91.00  |
-| 446 | Learning a unified classifier incrementally via rebalancing                          | CVPR   | 2019 | code | 195.80   |
+| 446 | Learning a unified classifier incrementally via rebalancing                          | CVPR   | 2019 | [code](https://github.com/hshustc/CVPR19_Incremental_Learning) | 195.80   |
 | 447 | Lifelong gan: Continual learning for conditional image generation                        | ICCV   | 2019 |  | 36.80  |
 | 448 | Overcoming catastrophic forgetting with unlabeled data in the wild                       | ICCV   | 2019 |  | 38.80  |
 | 449 | Functional regularisation for continual learning with gaussian processes                     | ICLR   | 2019 |  | 30.60  |
@@ -460,21 +460,21 @@ The 'cites/year' values were calculated based on citation data available up to M
 | 453 | Uncertainty-based continual learning with adaptive regularization                        | NeurIPS  | 2019 |  | 34.40  |
 | 454 | Overcoming catastrophic forgetting for continual learning via model adaptation                   | CVPR   | 2019 |  | 30.40  |
 | 455 | Continual learning with hypernetworks                                | ICLR   | 2019 |  | 69.60  |
-| 456 | Scalable and order-robust continual learning with additive pa- rameter decomposition                 | ICLR   | 2019 |  | 26.20  |
+| 456 | Scalable and order-robust continual learning with additive parameter decomposition                 | ICLR   | 2019 |  | 26.20  |
 | 457 | Continual Learning with Bayesian Neural Networks for Non-Stationary Data                     | ICLR   | 2019 |  | 13.40  |
-| 458 | Compacting, Picking and Growing for Unforgetting Continual Learning                      | NeurIPS  | 2019 | code | 49.20  |
-| 459 | Increasingly Packing Multiple Facial-Informatics Modules in A Unified Deep-Learning Model via Lifelong Learning        | MM   | 2019 | code | 9.00   |
+| 458 | Compacting, Picking and Growing for Unforgetting Continual Learning                      | NeurIPS  | 2019 | [code](https://github.com/ivclab/CPG) | 49.20  |
+| 459 | Increasingly Packing Multiple Facial-Informatics Modules in A Unified Deep-Learning Model via Lifelong Learning        | MM   | 2019 | [code](https://github.com/ivclab/PAE) | 9.00   |
 | 460 | Complementary Learning for Overcoming Catastrophic Forgetting Using Experience Replay                | IJCAI  | 2019 |  | 14.40  |
 | 461 | IL2M: Class Incremental Learning With Dual Memory                            | ICCV   | 2019 |  | 63.00  |
 | 462 | Incremental Learning Using Conditional Adversarial Networks                          | ICCV   | 2019 |  | 29.40  |
 | 463 | RPSNet: Random Path Selection for Incremental Learning                           | NeurIPS  | 2019 |  | 43.60  |
-| 464 | Meta-Learning Representations for Continual Learning                           | NeurIPS  | 2019 | code | 63.60  |
+| 464 | Meta-Learning Representations for Continual Learning                           | NeurIPS  | 2019 | [code](https://github.com/Khurramjaved96/mrcl) | 63.60  |
 | 465 | Large Scale Incremental Learning                                   | CVPR   | 2019 |  | 222.40   |
 | 466 | Learning to Remember: A Synaptic Plasticity Driven Framework for Continual Learning                | CVPR   | 2019 |  | 54.80  |
 | 467 | Task-Free Continual Learning                                   | CVPR   | 2019 |  | 60.20  |
 | 468 | Learn to Grow: A Continual Structure Learning Framework for Overcoming Catastrophic Forgetting             | ICML   | 2019 |  | 71.80  |
-| 469 | Efficient Lifelong Learning with A-GEM                                 | ICLR   | 2019 | code | 247.40   |
-| 470 | Learning to Learn without Forgetting By Maximizing Transfer and Minimizing Interference                | ICLR   | 2019 | code | 138.20   |
+| 469 | Efficient Lifelong Learning with A-GEM                                 | ICLR   | 2019 | [code](https://github.com/facebookresearch/agem) | 247.40   |
+| 470 | Learning to Learn without Forgetting By Maximizing Transfer and Minimizing Interference                | ICLR   | 2019 | [code](https://github.com/mattriemer/mer) | 138.20   |
 | 471 | Overcoming Catastrophic Forgetting via Model Adaptation                          | ICLR   | 2019 |  | 30.40  |
 | 472 | A comprehensive, application-oriented study of catastrophic forgetting in DNNs                   | ICLR   | 2019 |  | 18.20  |
 | 473 | Incremental Stochastic Factorization for Online Reinforcement Learning                     | AAAI   | 2019 |  | 1.80   |
@@ -485,16 +485,16 @@ The 'cites/year' values were calculated based on citation data available up to M
 | 478 | Lifelong learning via progressive distillation and retrospection                       | ECCV   | 2018 |  | 32.67  |
 | 479 | Fearnet: Brain-inspired model for incremental learning                           | ICLR   | 2018 |  | 82.33  |
 | 480 | Lifelong learning with dynamically expandable networks                           | ICLR   | 2018 |  | 188.83   |
-| 481 | Memory Replay GANs: learning to generate images from new categories without forgetting               | NuraIPS  | 2018 | code | 2.67   |
-| 482 | Reinforced Continual Learning                                    | NuraIPS  | 2018 | code | 56.67  |
+| 481 | Memory Replay GANs: learning to generate images from new categories without forgetting               | NuraIPS  | 2018 | [code]() | 2.67   |
+| 482 | Reinforced Continual Learning                                    | NuraIPS  | 2018 | [code](https://github.com/xujinfan/Reinforced-Continual-Learning) | 56.67  |
 | 483 | Online Structured Laplace Approximations for Overcoming Catastrophic Forgetting                  | NuraIPS  | 2018 |  | 47.17  |
-| 484 | Rotate your Networks: Better Weight Consolidation and Less Catastrophic Forgetting (R-EWC)               | ICPR   | 2018 | code | 40.50  |
-| 485 | End-to-End Incremental Learning                                  | ECCV   | 2018 | code | 186.00   |
+| 484 | Rotate your Networks: Better Weight Consolidation and Less Catastrophic Forgetting (R-EWC)               | ICPR   | 2018 | [code](https://github.com/xialeiliu/RotateNetworks) | 40.50  |
+| 485 | End-to-End Incremental Learning                                  | ECCV   | 2018 | [code](https://github.com/fmcp/EndToEndIncrementalLearning) | 186.00   |
 | 486 | Riemannian Walk for Incremental Learning: Understanding Forgetting and Intransigence                 | ECCV   | 2018 |  | 169.17   |
-| 487 | Piggyback: Adapting a Single Network to Multiple Tasks by Learning to Mask Weights                 | ECCV   | 2018 | code | 102.83   |
-| 488 | Memory Aware Synapses: Learning what (not) to forget                           | ECCV   | 2018 | code | 231.50   |
-| 489 | PackNet: Adding Multiple Tasks to a Single Network by Iterative Pruning                      | CVPR   | 2018 | code | 189.67   |
-| 490 | Overcoming Catastrophic Forgetting with Hard Attention to the Task                       | ICML   | 2018 | code | 163.83   |
+| 487 | Piggyback: Adapting a Single Network to Multiple Tasks by Learning to Mask Weights                 | ECCV   | 2018 | [code](https://github.com/arunmallya/piggyback) | 102.83   |
+| 488 | Memory Aware Synapses: Learning what (not) to forget                           | ECCV   | 2018 | [code](https://github.com/rahafaljundi/MAS-Memory-Aware-Synapses) | 231.50   |
+| 489 | PackNet: Adding Multiple Tasks to a Single Network by Iterative Pruning                      | CVPR   | 2018 | [code](https://github.com/arunmallya/packnet) | 189.67   |
+| 490 | Overcoming Catastrophic Forgetting with Hard Attention to the Task                       | ICML   | 2018 | [code](https://github.com/joansj/hat) | 163.83   |
 | 491 | Incremental Learning Framework for Indoor Scene Recognition                          | AAAI   | 2018 |  | 3.00   |
 | 492 | HOUDINI: Lifelong Learning as Program Synthesis                              | NeurIPS  | 2018 |  | 14.17  |
 | 493 | Overcoming catastrophic forgetting by incremental moment matching                        | NeruIPS  | 2017 |  | 90.86  |
@@ -503,9 +503,9 @@ The 'cites/year' values were calculated based on citation data available up to M
 | 496 | Gradient episodic memory for continual learning                              | NeurIPS  | 2017 |  | 337.86   |
 | 497 | Continual learning with deep generative replay                             | NeurIPS  | 2017 |  | 267.71   |
 | 498 | Neural discrete representation learning                                | NeurIPS  | 2017 |  | 481.00   |
-| 499 | Continual Learning Through Synaptic Intelligence                             | ICML   | 2017 | code | 346.29   |
+| 499 | Continual Learning Through Synaptic Intelligence                             | ICML   | 2017 | [code](https://github.com/ganguli-lab/pathint) | 346.29   |
 | 500 | Incremental Learning of Object Detectors Without Catastrophic Forgetting                     | ICCV   | 2017 |  | 73.29  |
-| 501 | iCaRL: Incremental Classifier and Representation Learning                          | CVPR   | 2017 | code | 482.86   |
+| 501 | iCaRL: Incremental Classifier and Representation Learning                          | CVPR   | 2017 | [code](https://github.com/srebuffi/iCaRL) | 482.86   |
 | 502 | Fast online incremental learning on mixture streaming data                         | AAAI   | 2017 |  | 2.00   |
 | 503 | A deep hierarchical approach to lifelong learning in minecraft                         | AAAI   | 2017 |  | 60.43  |
 | 504 | Lifelong learning of action representations with deep neural self-organization                   | AAAI   | 2017 |  | 1.71   |
