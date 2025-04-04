@@ -1,13 +1,13 @@
 # Awesome-Continual-Learning-Papers
 
 This is the paper list of our paper ''_A Systematic Literature Review on Continual Learning_''. This repository will provide all paper links and released code links to help researchers interested in this area and continue to add useful resources to this repo.
-The 'cites/year' values were calculated based on citation data available up to March 19, 2024. We will continue to update data in this repo.
+The 'cites/year' values were calculated based on citation data retrieved from Google Scholar. We will continue to update data in this repo.
 
 | NO. |Title| Venue| Year | code | cites/year |
 |-----|:------------------------------------------------------------------------------------------------------------------------------------:|:--------:|:----:|------|------------|
 | 1| Towards Lifelong Learning of Large Language Models A Survey | CSUR | 2025|| 15|
 | 2| Recent Advances of Foundation Language Models-based Continual Learning A Survey| CSUR | 2025|| 10|
-| 3| A Comprehensive Survey of Continual Learning: Theory, Method and Application| TPAMI| 2024|| 147 |
+| 3| A Comprehensive Survey of Continual Learning: Theory, Method and Application| TPAMI| 2024|| 851 |
 | 4| Continual Learning with Pre-Trained Models: A Survey| Arxiv| 2024|| 1|
 | 5| Elastic Feature Consolidation For Cold Start Exemplar-Free Incremental Learning| ICLR | 2024| [code](https://github.com/simomagi/elastic_feature_consolidation) | 0|
 | 6| Function-space Parameterization of Neural Networks for Sequential Learning| ICLR | 2024|| 0|
