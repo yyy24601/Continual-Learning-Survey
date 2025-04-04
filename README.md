@@ -16,7 +16,7 @@ The 'cites/year' values were calculated based on citation data retrieved from Go
 | 9| Continual Momentum Filtering on Parameter Space for Online Test-time Adaptation| ICLR | 2024|| 0|
 | 10 | TAIL: Task-specific Adapters for Imitation Learning with Large Pretrained Models | ICLR | 2024|| 0|
 | 11 | Class Incremental Learning via Likelihood Ratio Based Task Prediction| ICLR | 2024| [code](https://github.com/linhaowei1/TPL)| 1|
-| 12 | The Joint Effect of Task Similarity and Overparameterization on Catastrophic Forgetting â€” An Analytical Model| ICLR | 2024|| 2|
+| 12 | The Joint Effect of Task Similarity and Overparameterization on Catastrophic Forgetting - An Analytical Model| ICLR | 2024|| 2|
 | 13 | Prediction Error-based Classification for Class-Incremental Learning | ICLR | 2024| [code](https://github.com/michalzajac-ml/pec)| 3|
 | 14 | Adapting Large Language Models via Reading Comprehension| ICLR | 2024| [code](https://github.com/microsoft/LMOps/tree/main/adaptllm) | 16|
 | 15 | Accurate Forgetting for Heterogeneous Federated Continual Learning | ICLR | 2024|| 0|
