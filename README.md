@@ -1,4 +1,4 @@
-# Awesome-Continual-Learning-Papers
+# Awesome Continual Learning Papers
 
 This is the paper list of our paper ''_A Systematic Literature Review on Continual Learning_''. 
 
