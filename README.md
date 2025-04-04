@@ -518,4 +518,4 @@ The 'cites/year' values were calculated based on citation data available up to M
 | 511| Error-driven incremental learning in deep convolutional neural network for large-scale image classification| MM | 2014|| 30.9|
 | 512| Lifelong machine learning systems: Beyond learning algorithms| AAAI | 2013|| 37.91 |
 | 513| Active task selection for lifelong machine learning| AAAI | 2013|| 7.73|
-| 514| Recurrent transition hierarchies for continual learning: A general overview | AAAI | 2011|||
+| 514| Recurrent transition hierarchies for continual learning: A general overview | AAAI | 2011||0|
