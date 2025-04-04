@@ -8,7 +8,7 @@ The 'cites/year' values were calculated based on citation data retrieved from Go
 | 1| Towards Lifelong Learning of Large Language Models A Survey | CSUR | 2025|| 15|
 | 2| Recent Advances of Foundation Language Models-based Continual Learning A Survey| CSUR | 2025|| 10|
 | 3| A Comprehensive Survey of Continual Learning: Theory, Method and Application| TPAMI| 2024|| 851 |
-| 4| Continual Learning with Pre-Trained Models: A Survey| Arxiv| 2024|| 1|
+| 4| Continual Learning with Pre-Trained Models: A Survey| IJCAI | 2024|[code](https://github.com/sun-hailong/LAMDA-PILOT)| 1|
 | 5| Elastic Feature Consolidation For Cold Start Exemplar-Free Incremental Learning| ICLR | 2024| [code](https://github.com/simomagi/elastic_feature_consolidation) | 0|
 | 6| Function-space Parameterization of Neural Networks for Sequential Learning| ICLR | 2024|| 0|
 | 7| Progressive Fourier Neural Representation for Sequential Video Compilation| ICLR | 2024|| 0|
