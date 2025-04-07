@@ -1,3 +1,47 @@
+
+## 📘 Manuscript Framework
+
+This repository supports the submission of the paper:
+
+> **Continual Learning: A Systematic Literature Review (2010–2025)**  
+
+### 1. Introduction
+Introduces the topic of continual learning (CL) and its importance in dynamic environments. This section defines key concepts and outlines the motivation, purpose, and scope of the review.
+
+### 2. Preliminaries
+Provides theoretical foundations and a brief historical overview of CL.
+
+### 3. Systematic Literature Review (SLR) Methodology
+Describes the SLR approach, including five research questions, literature search strategy, and inclusion/exclusion criteria. The study selection process yielded a final set of approximately 80 relevant papers (2010–2025) for in-depth review.
+
+### 4. Review Findings
+
+#### • Core Challenges in CL
+Outlines the primary challenges that continual learning methods seek to address.
+
+#### • Taxonomy of CL Methods
+Organized into five main categories, further refined into 12 subcategories and 24 subaspects. For each subaspect, we listed the relevant literature and systematically analyzed representative methods, visualized through structured diagrams to highlight methodological distinctions and interconnections.
+
+#### • Taxonomy of CL Settings
+Systematic classification into three major classes, further detailed into 12 setting types. For each type, we listed the relevant literature and synthesized key studies, addressing conceptual ambiguities and literature coverage gaps identified in previous reviews.
+
+#### • Evaluation Metrics
+Reviews the metrics and benchmarks used to evaluate CL performance and discusses their significance and limitations.
+
+### 5. Discussion
+
+#### • Applications of CL
+CL techniques are applied across diverse domains, including computer vision (CV), natural language processing (NLP), robotics, edge computing, and digital twin systems — spanning a total of seven application domains.
+
+#### • Future Directions
+Emerging research directions include continual pretraining, task-free continual learning, efficient memory-augmented replay, and unified benchmarking — among eight key future directions.
+
+#### • Citation Network Analysis
+Provides a brief analysis of the citation network of CL literature.
+
+### 6. Conclusion
+Summarizes the contributions of the review.
+
 # Awesome Continual Learning Papers
 
 This is the paper list of our paper ''_A Systematic Literature Review on Continual Learning_''. 
