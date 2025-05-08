@@ -3,7 +3,7 @@
 
 This repository supports the submission of the paper:
 
-> **Continual Learning: A Systematic Literature Review (2010–2025)**  
+> **Continual Learning: A Systematic Literature Review**  
 
 ### 1. Introduction
 Introduces the topic of continual learning (CL) and its importance in dynamic environments. This section defines key concepts and outlines the motivation, purpose, and scope of the review.
@@ -42,7 +42,7 @@ Provides a brief analysis of the citation network of CL literature.
 ### 6. Conclusion
 Summarizes the contributions of the review.
 
-# Awesome Continual Learning Papers
+# Continual Learning Papers
 
 This is the paper list of our paper ''_A Systematic Literature Review on Continual Learning_''. 
 
