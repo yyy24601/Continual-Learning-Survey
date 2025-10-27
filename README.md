@@ -42,7 +42,7 @@ Provides a brief analysis of the citation network of CL literature.
 ### 6. Conclusion
 Summarizes the contributions of the review.
 
-# Continual Learning Papers
+# Continual Learning Survey
 
 This is the paper list of our paper ''_A Systematic Literature Review on Continual Learning_''. 
 
