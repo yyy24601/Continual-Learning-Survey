@@ -1,8 +1,10 @@
 # 📘 Continual Learning: A Systematic Literature Review  
 [![DOI](https://img.shields.io/badge/DOI-10.1016%2Fj.neunet.2025.108226-blue)](https://doi.org/10.1016/j.neunet.2025.108226)
 
+
 This repository provides structured materials, analysis, and curated literature for our paper  
-*Continual Learning: A Systematic Literature Review* (Neural Networks, 2026).
+[*Continual Learning: A Systematic Literature Review* (*Neural Networks*, 2026)](https://doi.org/10.1016/j.neunet.2025.108226).
+
 
 ---
 
