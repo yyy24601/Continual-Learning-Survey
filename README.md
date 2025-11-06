@@ -3,7 +3,7 @@
 
 This repository supports our paper:
 
-> **[Continual Learning: A Systematic Literature Review](https://doi.org/10.1016/j.neunet.2025.108226)**  
+> **[_Continual Learning: A Systematic Literature Review_](https://doi.org/10.1016/j.neunet.2025.108226)**  
 
 ---
 
@@ -70,7 +70,7 @@ https://doi.org/10.1016/j.neunet.2025.108226.
 
 ## 3. Awesome Continual Learning
 
-This is the paper list of our paper ''[Continual learning: A systematic literature review](https://kwnsfk27.r.eu-west-1.awstrack.me/L0/https:%2F%2Fdoi.org%2F10.1016%2Fj.neunet.2025.108226/1/0102019a4583e05e-26451b17-b991-4801-b4e9-0b375bf97a80-000000/X8PcNMUoHWw2at9pna0TacCUWaE=450)''. 
+This is the paper list of our paper [_Continual Learning: A Systematic Literature Review_](https://kwnsfk27.r.eu-west-1.awstrack.me/L0/https:%2F%2Fdoi.org%2F10.1016%2Fj.neunet.2025.108226/1/0102019a4583e05e-26451b17-b991-4801-b4e9-0b375bf97a80-000000/X8PcNMUoHWw2at9pna0TacCUWaE=450). 
 
 This repository covers a wide range of continual learning papers published from 2011 to the present and will provide all paper links and released code links to help researchers interested in this area and continue to add useful resources to this repo.
 
