@@ -1,9 +1,9 @@
 
 ## 📘 Manuscript Framework
 
-This repository supports the submission of the paper:
+This repository supports our paper:
 
-> **Continual Learning: A Systematic Literature Review**  
+> **[Continual Learning: A systematic Literature Review](https://kwnsfk27.r.eu-west-1.awstrack.me/L0/https:%2F%2Fdoi.org%2F10.1016%2Fj.neunet.2025.108226/1/0102019a4583e05e-26451b17-b991-4801-b4e9-0b375bf97a80-000000/X8PcNMUoHWw2at9pna0TacCUWaE=450)**  
 
 ### 1. Introduction
 Introduces the topic of continual learning (CL) and its importance in dynamic environments. This section defines key concepts and outlines the motivation, purpose, and scope of the review.
@@ -19,32 +19,29 @@ Describes the SLR approach, including five research questions, literature search
 #### • Core Challenges in CL
 Outlines the primary challenges that continual learning methods seek to address.
 
-#### • Taxonomy of CL Methods
+#### • Learning methods for CL
 Organized into five main categories, further refined into 12 subcategories and 24 subaspects. For each subaspect, we listed the relevant literature and systematically analyzed representative methods, visualized through structured diagrams to highlight methodological distinctions and interconnections.
 
-#### • Taxonomy of CL Settings
+#### • Settings for CL
 Systematic classification into three major classes, further detailed into 12 setting types. For each type, we listed the relevant literature and synthesized key studies, addressing conceptual ambiguities and literature coverage gaps identified in previous reviews.
 
 #### • Evaluation Metrics
 Reviews the metrics and benchmarks used to evaluate CL performance and discusses their significance and limitations.
 
 ### 5. Discussion
+Synthesizes the implications, applications, and emerging research frontiers of CL.
 
-#### • Applications of CL
-CL techniques are applied across diverse domains, including computer vision (CV), natural language processing (NLP), robotics, edge computing, and digital twin systems — spanning a total of seven application domains.
+#### • Real-world applications of CL
+Summarizes CL use cases across seven domains, including computer vision, NLP, robotics, and digital twins.
 
 #### • Future Directions
 Emerging research directions include continual pretraining, task-free continual learning, efficient memory-augmented replay, and unified benchmarking — among eight key future directions.
 
-#### • Citation Network Analysis
-Provides a brief analysis of the citation network of CL literature.
-
 ### 6. Conclusion
-Summarizes the contributions of the review.
 
 # Continual Learning Survey
 
-This is the paper list of our paper ''_A Systematic Literature Review on Continual Learning_''. 
+This is the paper list of our paper ''[Continual learning: A systematic literature review](https://kwnsfk27.r.eu-west-1.awstrack.me/L0/https:%2F%2Fdoi.org%2F10.1016%2Fj.neunet.2025.108226/1/0102019a4583e05e-26451b17-b991-4801-b4e9-0b375bf97a80-000000/X8PcNMUoHWw2at9pna0TacCUWaE=450)''. 
 
 This repository covers a wide range of continual learning papers published from 2011 to the present and will provide all paper links and released code links to help researchers interested in this area and continue to add useful resources to this repo.
 
