@@ -1,17 +1,16 @@
+# 📘 Continual Learning: A Systematic Literature Review  
+[![DOI](https://img.shields.io/badge/DOI-10.1016%2Fj.neunet.2025.108226-blue)](https://doi.org/10.1016/j.neunet.2025.108226)
 
-# 📘 Continual Learning: A Systematic Literature Review
-
-This repository supports our paper:
-
-> **[_Continual Learning: A Systematic Literature Review_](https://doi.org/10.1016/j.neunet.2025.108226)**  
+This repository provides structured materials, analysis, and curated literature for our paper  
+*Continual Learning: A Systematic Literature Review* (Neural Networks, 2026).
 
 ---
 
 ## 📑 Table of Contents
-- [1. Manuscript Framework](#1-manuscript-framework)
-- [2. Citation](#2-citation)
-- [3. Awesome Continual Learning](#3-awesome-continual-learning)
-
+- [1. 📑 Manuscript Framework](#1-manuscript-framework)
+- [2. 📚 Citation](#2-citation)
+- [3. 📘 Awesome Continual Learning](#3-awesome-continual-learning)
+- [4. 🧾 License](#4-license)
 ---
 
 ## 1. Manuscript Framework 
@@ -67,8 +66,7 @@ https://doi.org/10.1016/j.neunet.2025.108226.
 (https://www.sciencedirect.com/science/article/pii/S0893608025011074)
 ```
 
-
-## 3. Awesome Continual Learning
+##  3. Awesome Continual Learning
 
 This is the paper list of our paper [_Continual Learning: A Systematic Literature Review_](https://kwnsfk27.r.eu-west-1.awstrack.me/L0/https:%2F%2Fdoi.org%2F10.1016%2Fj.neunet.2025.108226/1/0102019a4583e05e-26451b17-b991-4801-b4e9-0b375bf97a80-000000/X8PcNMUoHWw2at9pna0TacCUWaE=450). 
 
@@ -593,5 +591,5 @@ All data are sourced from Google Scholar. However, the 'cites/year' values for m
 | 512| Lifelong machine learning systems: Beyond learning algorithms| AAAI | 2013|| 37.91 |
 | 513| Active task selection for lifelong machine learning| AAAI | 2013|| 7.73|
 | 514| Recurrent transition hierarchies for continual learning: A general overview | AAAI | 2011||0|
-## 🧾 License
-This repository is released under the **CC BY 4.0 License**.
+## 4. License
+This repository is released under the [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
