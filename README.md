@@ -1,9 +1,20 @@
 
-## 📘 Manuscript Framework
+# 📘 Continual Learning: A Systematic Literature Review
 
 This repository supports our paper:
 
-> **[Continual Learning: A systematic Literature Review](https://kwnsfk27.r.eu-west-1.awstrack.me/L0/https:%2F%2Fdoi.org%2F10.1016%2Fj.neunet.2025.108226/1/0102019a4583e05e-26451b17-b991-4801-b4e9-0b375bf97a80-000000/X8PcNMUoHWw2at9pna0TacCUWaE=450)**  
+> **[Continual Learning: A Systematic Literature Review](https://doi.org/10.1016/j.neunet.2025.108226)**  
+
+---
+
+## 📑 Table of Contents
+- [1. Manuscript Framework](#1-manuscript-framework)
+- [2. Citation](#2-citation)
+- [3. Awesome Continual Learning](#3-awesome-continual-learning)
+
+---
+
+## 1. Manuscript Framework 
 
 ### 1. Introduction
 Introduces the topic of continual learning (CL) and its importance in dynamic environments. This section defines key concepts and outlines the motivation, purpose, and scope of the review.
@@ -38,8 +49,27 @@ Summarizes CL use cases across seven domains, including computer vision, NLP, ro
 Emerging research directions include continual pretraining, task-free continual learning, efficient memory-augmented replay, and unified benchmarking — among eight key future directions.
 
 ### 6. Conclusion
+Summarizes key contributions: a comprehensive 2010–2025 review, refined taxonomies, theoretical synthesis of forgetting, and an open-source repository.
 
-# 📘 Continual Learning Survey
+---
+
+## 2. Citation
+If you use this repository or the paper list, please cite:
+```
+Qinwen Yang, Liyuan Wang, Joerg Wicker, Gillian Dobbie,
+Continual learning: A systematic literature review,
+Neural Networks,
+Volume 195,
+2026,
+108226,
+ISSN 0893-6080,
+https://doi.org/10.1016/j.neunet.2025.108226.
+(https://www.sciencedirect.com/science/article/pii/S0893608025011074)
+```
+## 🧾 License
+This repository is released under the **CC BY 4.0 License**.
+
+# 3. Awesome Continual Learning
 
 This is the paper list of our paper ''[Continual learning: A systematic literature review](https://kwnsfk27.r.eu-west-1.awstrack.me/L0/https:%2F%2Fdoi.org%2F10.1016%2Fj.neunet.2025.108226/1/0102019a4583e05e-26451b17-b991-4801-b4e9-0b375bf97a80-000000/X8PcNMUoHWw2at9pna0TacCUWaE=450)''. 
 
