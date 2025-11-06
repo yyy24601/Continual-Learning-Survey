@@ -39,7 +39,7 @@ Emerging research directions include continual pretraining, task-free continual 
 
 ### 6. Conclusion
 
-# Continual Learning Survey
+# 📘 Continual Learning Survey
 
 This is the paper list of our paper ''[Continual learning: A systematic literature review](https://kwnsfk27.r.eu-west-1.awstrack.me/L0/https:%2F%2Fdoi.org%2F10.1016%2Fj.neunet.2025.108226/1/0102019a4583e05e-26451b17-b991-4801-b4e9-0b375bf97a80-000000/X8PcNMUoHWw2at9pna0TacCUWaE=450)''. 
 
