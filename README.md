@@ -81,90 +81,144 @@ All data are sourced from Google Scholar. However, the 'cites/year' values for m
 |-----|:------------------------------------------------------------------------------------------------------------------------------------:|:--------:|:----:|------|------------|
 | 1| Towards Lifelong Learning of Large Language Models A Survey | CSUR | 2025|| 15|
 | 2| Recent Advances of Foundation Language Models-based Continual Learning A Survey| CSUR | 2025|| 10|
-| 3| Knowledge Decoupling via Orthogonal Projection for Lifelong Editing of Large Language Models| ACL | 2025|| 0|
-| 4| Serial Lifelong Editing via Mixture of Knowledge Expert| ACL | 2025|| 0|
-| 5| Efficient Domain Continual pretraining by Mitigating the Stability Gap| ACL | 2025|| 0|
-| 6| Neuron-Level Sequential Editing for Large Language Models| ACL | 2025| [code](https://github.com/jianghoucheng/NSE)| 0|
-| 7| Controlled Low-Rank Adaptation with Subspace Regularization for Continued Training on Large Language Models| ACL | 2025| [code](https://github.com/sutakori/CLoRA)| 0|
-| 8| HiDe-LLaVA: Hierarchical Decoupling for Continual Instruction Tuning of Large Multimodal Models| ACL | 2025| [code](https://github.com/Ghy0501/HiDe-LLaVA)| 0|
-| 9| Multi-Modality Expansion and Retention for LLMs through Parameter Merging and Decoupling| ACL | 2025|| 0|
-| 10| Continual Gradient Low-Rank Projection Fine-Tuning for LLMs| ACL | 2025| [code](https://github.com/Wcxwcxw/GORP)| 0|
-| 11| A Generative Adaptive Replay Continual Learning Model for Temporal Knowledge Graph Reasoning| ACL | 2025| [code](https://github.com/zyzhang11/DGAR)| 0|
-| 12| Learn to Memorize: Scalable Continual Learning in Semiparametric Models with Mixture-of-Neighbors Induction Memory| ACL | 2025| [code](https://github.com/viniferagy/MoNIM)| 0|
-| 13| Don't Half-listen: Capturing Key-part Information in Continual Instruction Tuning| ACL | 2025|| 0|
-| 14| Recurrent Knowledge Identification and Fusion for Language Model Continual Learning| ACL | 2025| [code](https://github.com/WoodScene/Recurrent_KIF)| 0|
-| 15| TiC-LM: A Web-Scale Benchmark for Time-Continual LLM Pretraining| ACL | 2025| [code](https://github.com/apple/ml-tic-lm)| 0|
-| 16| Exploiting Presentative Feature Distributions for Parameter-Efficient Continual Learning of Large Language Models| ICML | 2025| [code](https://github.com/ZERO-9215/Online-CL-LLMs)| 0|
-| 17| Towards Understanding Catastrophic Forgetting in Two-layer Convolutional Neural Networks| ICML | 2025|| 0|
-| 18| Predicting the Susceptibility of Examples to Catastrophic Forgetting| ICML | 2025|| 0|
-| 19| Tensor Decomposition Based Memory-Efficient Incremental Learning| ICML | 2025|| 0|
-| 20| Navigating Semantic Drift in Task-Agnostic Class-Incremental Learning| ICML | 2025| [code](https://github.com/fwu11/MACIL.git)| 0|
-| 21| Componential Prompt-Knowledge Alignment for Domain Incremental Learning| ICML | 2025| [code](https://github.com/zhoujiahuan1991/ICML2025-KA-Prompt)| 0|
-| 22| LADA: Scalable Label-Specific CLIP Adapter for Continual Learning| ICML | 2025| [code](https://github.com/MaolinLuo/LADA)| 0|
-| 23| Reinforced Lifelong Editing for Language Models| ICML | 2025| [code](https://github.com/zhrli324/RLEdit)| 0|
-| 24| Geometric Feature Embedding for Effective 3D Few-Shot Class Incremental Learning| ICML | 2025| [code](https://github.com/lixiangqi707/3D-FLEG)| 0|
-| 25| Addressing Imbalanced Domain-Incremental Learning through Dual-Balance Collaborative Experts| ICML | 2025|| 0|
-| 26| Unlocking the Power of Rehearsal in Continual Learning: A Theoretical Perspective| ICML | 2025|| 0|
-| 27| Proxy-FDA: Proxy-based Feature Distribution Alignment for Fine-tuning Vision Foundation Models without Forgetting| ICML | 2025|| 0|
-| 28| Mitigating Plasticity Loss in Continual Generalized Category Discovery| ICML | 2025| [code](https://github.com/bluecontra/C-CHAIN)| 0|
-| 29| A Selective Learning Method for Temporal Concept Drift in Online Continual Learning| ICML | 2025|| 0|
-| 30| Continual Reinforcement Learning by Planning in a Scale-Free World Model| ICML | 2025|| 0|
-| 31| Label shift-based Continual Adversarial Defense for Open Environment| ICML | 2025|| 0|
-| 32| Detection-guided Continual Representation Learning under Negative Transfer| ICML | 2025|| 0|
-| 33| Probabilistic Group Mask Guided Discrete Optimization for Continual Learning| ICML | 2025| [code](https://github.com/njustkmg/ICML25-PGM)| 0|
-| 34| Large Continual Instruction Assistant| ICML | 2025| [code](https://github.com/JingyangQiao/CoIN)| 0|
-| 35| TreeLoRA: Efficient Continual Learning via Hierarchical LoRA Tree| ICML | 2025|| 0|
-| 36| Upweighting Easy Samples in Fine-Tuning Mitigates Catastrophic Forgetting| ICML | 2025|| 0|
-| 37| Language Guided Concept Bottleneck Models for Interpretable Continual Learning| CVPR | 2025| [code](https://github.com/FisherCats/CLG-CBM)| 0|
-| 38| Dynamic Integration of Task-Specific Adapters for Class Incremental Learning| CVPR | 2025|| 0|
-| 39| Towards Continual Universal Segmentation| CVPR | 2025|| 0|
-| 40| Activating Sparse Part Concepts for 3D Class Incremental Learning| CVPR | 2025| [code](https://github.com/zhenyatian/ILPC)| 0|
-| 41| Think Small, Act Big: Primitive Prompt Learning for Lifelong Robot Manipulation| CVPR | 2025|| 0|
-| 42| CL-LoRA: Continual Low-Rank Adaptation for Rehearsal-Free Class-Incremental Learning| CVPR | 2025| [code](https://github.com/JiangpengHe/CL-LoRA)| 0|
-| 43| CoMBO: Conflict Mitigation via Branched Optimization for Class Incremental Segmentation| CVPR | 2025| [code](https://guangyu-ryan.github.io/CoMBO)| 0|
-| 44| BiLoRA: Almost-orthogonal Parameter Spaces for Continual Learning| CVPR | 2025| [code](https://github.com/yifeiacc/BiLoRA)| 0|
-| 45| Attraction Diminishing and Distributing for Few-Shot Class-Incremental Learning| CVPR | 2025|| 0|
-| 46| Incremental Object Keypoint Learning| CVPR | 2025|| 0|
-| 47| Confidence-aware Replay-free Continual Lane Detection| CVPR | 2025|| 0|
-| 48| Non-binary Nearest Class Mean classifier: Learnable Class Relationship Constraints for Incremental Learning| CVPR | 2025|| 0|
-| 49| Multi-View Diversity-guided Exemplar Selection for Class-Incremental Learning| CVPR | 2025|| 0|
-| 50| Balancing Performance and Adaptation in Federated Class-Incremental Learning| CVPR | 2025|| 0|
-| 51| A Dual Memory Framework with Second-Order Consistency for Deeper Continual Bayesian Inference| CVPR | 2025|| 0|
-| 52| TuB: Two-block Balanced Prompt for Continual Learning| CVPR | 2025|| 0|
-| 53| LoRA-E: Effificiently Bridging Level-gap for Class Incremental Learning under Long-Stream Scenarios| CVPR | 2025|| 0|
-| 54| Multi-point Adapter: Efficient Dynamic Expansion Framework for Class-Incremental Learning| CVPR | 2025|| 0|
-| 55| Prototype Feature Filtering with Smoothness-Aware Reinitialisation for Class-Incremental Learning| CVPR | 2025|| 0|
-| 56| Prototype-temporal Prompt Tuning for Continual Video Relationship Detection| CVPR | 2025|| 0|
-| 57| A Multi-subtask Cooperative Wasserstein-aligned Feature for Incremental Learning| CVPR | 2025|| 0|
-| 58| LVEL: Label Value Enhanced Representation Learning with One Example per Novel Class| CVPR | 2025|| 0|
-| 59| Injecting Continual Learning Capability into Pretrained Object Detector via Dansuos Libraries| CVPR | 2025|| 0|
-| 60| BiMC: Mitigating Catastrophic Forgetting via Bidirectional Modulator with Consistent Multi-Level Constraints| CVPR | 2025| [code](https://github.com/yychen016/BiMC)| 0|
-| 61| Reducing Class-wise Confusion for Incremental Learning with Disentangled Manifolds| CVPR | 2025| [code](https://github.com/lilyht/CREATE)| 0|
-| 62| ProtoDepth: Unsupervised Continual Depth Completion with Prototypes| CVPR | 2025| [code](https://github.com/patrickqrim/ProtoDepth)| 0|
-| 63| Beyond Background Shift: Rethinking Instance Replay in Continual Semantic Segmentation| CVPR | 2025| [code](https://github.com/YikeYin97/EIR)| 0|
-| 64| Do Your Best and Get Enough Rest for Continual Learning| CVPR | 2025| [code](https://github.com/hankyul2/ViewBatchModel)| 0|
-| 65| Task-Agnostic Guided Feature Expansion for Class-Incremental Learning| CVPR | 2025| [code](https://github.com/bwnzheng/TagFex_CVPR2025)| 0|
-| 66| ConceptGuard: Continual Personalized Text-to-Image Generation with Forgetting and Confusion Mitigation| CVPR | 2025|| 0|
-| 67| Synthetic Data is an Elegant GIFT for Continual Vision-Language Models| CVPR | 2025| [code](https://github.com/Luo-Jiaming/GIFT_CL)| 0|
-| 68| Rethinking Query-based Transformer for Continual Image Segmentation| CVPR | 2025| [code](https://github.com/SooLab/SimCIS)| 0|
-| 69| Boosting Domain Incremental Learning: Selecting the Optimal Parameters is All You Need| CVPR | 2025| [code](https://github.com/qwangcv/SOYO)| 0|
-| 70| Order-Robust Class Incremental Learning: Graph-Driven Dynamic Similarity Grouping| CVPR | 2025| [code](https://github.com/AIGNLAI/GDDSG)| 0|
-| 71| Adapter Merging with Centroid Prototype Mapping for Scalable Class-Incremental Learning| CVPR | 2025| [code](https://github.com/tf63/ACMap)| 0|
-| 72| AVQACL: A Novel Benchmark for Audio-Visual Question Answering Continual Learning| CVPR | 2025| [code](https://github.com/kx-wu/CVPR2025_AVQACL)| 0|
-| 73| Handling Spatial-Temporal Data Heterogeneity for Federated Continual Learning via Tail Anchor| CVPR | 2025| [code](https://github.com/SkyOfBeginning/FedTA_CVPR2025)| 0|
-| 74| One-for-More: Continual Diffusion Model for Anomaly Detection| CVPR | 2025|| 0|
-| 83| Prevalence of Negative Transfer in Continual Learning-based Deep 3D Object Detection| CVPR | 2025| [code](https://github.com/hongjoon0805/Reset-Distill.git)| 0|
-| 84| Adapt-∞: Scalable Continual Multimodal Instruction Tuning via Dynamic Data Selection| ICLR | 2025| [code](https://github.com/adymaharana/adapt-inf)| 0|
-| 85| Learning Continually by Spectral Regularization| ICLR | 2025|| 0|
-| 86| Self-Normalized Resets for Plasticity in Continual Learning| ICLR | 2025| [code](https://github.com/ajozefiak/SelfNormalizedResets)| 0|
-| 87| PseDet: Revisiting the Power of Pseudo Labels for Class-Incremental Object Detection| ICLR | 2025| [code](https://github.com/wang-qiuchen/PseDet)| 0|
-| 88| Meta-Continual Learning of Neural Fields| ICLR | 2025| [code](https://github.com/seungyoon-woo/MCL-NF)| 0|
-| 89| Vision and Language Synergy for Rehearsal-free Continual Low-Shot Learning| ICLR | 2025| [code](https://github.com/anwarmaxsum/LEAPGEN)| 0|
-| 90| Advancing Prompt-based Methods for Replay-free Class Incremental Learning through Multi-Level Interactive Adaptation| ICLR | 2025| [code](https://github.com/kangzhiq/MISA)| 0|
-| 91| LoRA Subtraction for Drift-Resistant Space in Continual Learning| TPAMI | 2025| [code](https://github.com/scarlet0703/LoRA-Sub-DRS)| 0|
-| 92| KAC: Kolmogorov-Arnold Classifier for Continual Learning| TPAMI | 2025| [code](https://github.com/Ethanhuhuhu/KAC)| 0|
-| 93| HiDe-PET: Continual Learning via Hierarchical Decoupling for Reduced Forgetting| TPAMI | 2025|| 0|
-| 94| Adaptive Score Alignment Learning for Continual Perceptual Question Answering| VR-TVCG | 2025| [code](https://github.com/ZhouKanglei/ASAL_CVQA)| 0|
+| 序号 | 论文标题 | 会议 | 年份 | 代码链接 | 阅读状态 |
+|------|----------|------|------|----------|----------|
+| 1 | Knowledge Decoupling via Orthogonal Projection for Lifelong Editing of Large Language Models | ACL | 2025 |  | 0 |
+| 2 | Serial Lifelong Editing via Mixture of Knowledge Expert | ACL | 2025 |  | 0 |
+| 序号 | 论文标题 | 会议 | 年份 | 代码链接 | 阅读状态 |
+|------|----------|------|------|----------|----------|
+| 3 | Knowledge Decoupling via Orthogonal Projection for Lifelong Editing of Large Language Models | ACL | 2025 |  | 0 |
+| 4 | Serial Lifelong Editing via Mixture of Knowledge Expert | ACL | 2025 |  | 0 |
+| 5 | Efficient Domain Continual pretraining by Mitigating the Stability Gap | ACL | 2025 |  | 0 |
+| 6 | Neuron-Level Sequential Editing for Large Language Models | ACL | 2025 | [code](https://github.com/jianghoucheng/NSE) | 0 |
+| 7 | Controlled Low-Rank Adaptation with Subspace Regularization for Continued Training on Large Language Models | ACL | 2025 | [code](https://github.com/sutakori/CLoRA) | 0 |
+| 8 | HiDe-LLaVA: Hierarchical Decoupling for Continual Instruction Tuning of Multimodal Large Language Model | ACL | 2025 | [code](https://github.com/Ghy0501/HiDe-LLaVA) | 0 |
+| 9 | Multi-Modality Expansion and Retention for LLMs through Parameter Merging and Decoupling | ACL | 2025 |  | 0 |
+| 10 | Continual Gradient Low-Rank Projection Fine-Tuning for LLMs | ACL | 2025 | [code](https://github.com/Wcxwcxw/GORP) | 0 |
+| 11 | A Generative Adaptive Replay Continual Learning Model for Temporal Knowledge Graph Reasoning | ACL | 2025 | [code](https://github.com/zyzhang11/DGAR) | 0 |
+| 12 | Learn to Memorize: Scalable Continual Learning in Semiparametric Models with Mixture-of-Neighbors Induction Memory | ACL | 2025 | [code](https://github.com/viniferagy/MoNIM) | 0 |
+| 13 | Don't Half-listen: Capturing Key-part Information in Continual Instruction Tuning | ACL | 2025 |  | 0 |
+| 14 | Recurrent Knowledge Identification and Fusion for Language Model Continual Learning | ACL | 2025 | [code](https://github.com/WoodScene/Recurrent_KIF) | 0 |
+| 15 | TiC-LM: A Web-Scale Benchmark for Time-Continual LLM Pretraining | ACL | 2025 | [code](https://github.com/apple/ml-tic-lm) | 0 |
+| 16 | Exploiting Presentative Feature Distributions for Parameter-Efficient Continual Learning of Large Language Models | ICML | 2025 | [code](https://github.com/ZERO-9215/Online-CL-LLMs) | 0 |
+| 17 | Towards Understanding Catastrophic Forgetting in Two-layer Convolutional Neural Networks | ICML | 2025 |  | 0 |
+| 18 | Predicting the Susceptibility of Examples to Catastrophic Forgetting | ICML | 2025 |  | 0 |
+| 19 | Tensor Decomposition Based Memory-Efficient Incremental Learning | ICML | 2025 |  | 0 |
+| 20 | Navigating Semantic Drift in Task-Agnostic Class-Incremental Learning | ICML | 2025 | [code](https://github.com/fwu11/MACIL.git) | 0 |
+| 21 | Componential Prompt-Knowledge Alignment for Domain Incremental Learning | ICML | 2025 | [code](https://github.com/zhoujiahuan1991/ICML2025-KA-Prompt) | 0 |
+| 22 | LADA: Scalable Label-Specific CLIP Adapter for Continual Learning | ICML | 2025 | [code](https://github.com/MaolinLuo/LADA) | 0 |
+| 23 | Reinforced Lifelong Editing for Language Models | ICML | 2025 | [code](https://github.com/zhrli324/RLEdit) | 0 |
+| 24 | Geometric Feature Embedding for Effective 3D Few-Shot Class Incremental Learning | ICML | 2025 | [code](https://github.com/lixiangqi707/3D-FLEG) | 0 |
+| 25 | Addressing Imbalanced Domain-Incremental Learning through Dual-Balance Collaborative Experts | ICML | 2025 |  | 0 |
+| 26 | Unlocking the Power of Rehearsal in Continual Learning: A Theoretical Perspective | ICML | 2025 |  | 0 |
+| 27 | Proxy-FDA: Proxy-based Feature Distribution Alignment for Fine-tuning Vision Foundation Models without Forgetting | ICML | 2025 |  | 0 |
+| 28 | Mitigating Plasticity Loss in Continual Reinforcement Learning by Reducing Churn | ICML | 2025 | [code](https://github.com/bluecontra/C-CHAIN) | 0 |
+| 29 | A Selective Learning Method for Temporal Graph Continual Learning | ICML | 2025 |  | 0 |
+| 30 | Continual Reinforcement Learning by Planning with Online World Models | ICML | 2025 |  | 0 |
+| 31 | Knowledge Retention in Continual Model-Based Reinforcement Learning | ICML | 2025 |  | 0 |
+| 32 | SEFE: Superficial and Essential Forgetting Eliminator for Multimodal Continual Instruction Tuning | ICML | 2025 | [code](https://github.com/jinpeng0528/SEFE) | 0 |
+| 33 | Demystifying Catastrophic Forgetting in Two-Stage Incremental Object Detector | ICML | 2025 | [code](https://github.com/fanrena/NSGP-RePRE) | 0 |
+| 34 | Understanding the Limits of Lifelong Knowledge Editing in LLMs | ICML | 2025 | [code](https://github.com/xingmingyu123456/KnowledgeSwapping) | 0 |
+| 35 | Knowledge Swapping via Learning and Unlearning | ICML | 2025 | [code](https://github.com/ExplainableML/WikiBigEdit) | 0 |
+| 36 | BECAME: Bayesian Continual Learning with Adaptive Model Merging | ICML | 2025 | [code](https://github.com/limei0818/BECAME) | 0 |
+| 37 | L3A: Label-Augmented Analytic Adaptation for Multi-Label Class Incremental Learning | ICML | 2025 | [code](https://github.com/scut-zx/L3A) | 0 |
+| 38 | Optimal Task Order for Continual Learning of Multiple Tasks | ICML | 2025 |  | 0 |
+| 39 | The Importance of Being Lazy: Scaling Limits of Continual Learning | ICML | 2025 |  | 0 |
+| 40 | Improving Continual Learning Performance and Efficiency with Auxiliary Classifiers | ICML | 2025 |  | 0 |
+| 41 | Learning Dynamics in Continual Pre-Training for Large Language Models | ICML | 2025 |  | 0 |
+| 42 | ZeroFlow: Overcoming Catastrophic Forgetting is Easier than You Think | ICML | 2025 |  | 0 |
+| 43 | Understanding the Forgetting of (Replay-based) Continual Learning via Feature Learning: Angle Matters | ICML | 2025 |  | 0 |
+| 44 | Model Uncertainty Quantification by Conformal Prediction in Continual Learning | ICML | 2025 |  | 0 |
+| 45 | Learning without Isolation: Pathway Protection for Continual Learning | ICML | 2025 | [code](https://github.com/chenzk202212/LwI) | 0 |
+| 46 | iDPA: Instance Decoupled Prompt Attention for Incremental Medical Object Detection | ICML | 2025 | [code](https://github.com/HarveyYi/iDPA) | 0 |
+| 47 | Online Curvature-Aware Replay: Leveraging 2nd Order Information for Online Continual Learning | ICML | 2025 |  | 0 |
+| 48 | CAN: Leveraging Clients As Navigators for Generative Replay in Federated Continual Learning | ICML | 2025 | [code](https://github.com/XuankunRong/CAN) | 0 |
+| 49 | Adaptive Localization of Knowledge Negation for Continual LLM Unlearning | ICML | 2025 | [code](https://github.com/zaocan666/ALKN) | 0 |
+| 50 | From RAG to Memory: Non-Parametric Continual Learning for Large Language Models | ICML | 2025 | [code](https://github.com/OSU-NLP-Group/HippoRAG) | 0 |
+| 51 | FedSSI: Rehearsal-Free Continual Federated Learning with Synergistic Synaptic Intelligence | ICML | 2025 |  | 0 |
+| 52 | Semantic Shift Estimation via Dual-Projection and Classifier Reconstruction for Exemplar-Free Class-Incremental Learning | ICML | 2025 | [code](https://github.com/RHe502/ICML25-DPCR) | 0 |
+| 53 | Measuring Representational Shifts in Continual Learning: A Linear Transformation Perspective | ICML | 2025 |  | 0 |
+| 54 | Where is the Truth? The Risk of Getting Confounded in a Continual World | ICML | 2025 | [code](https://github.com/ml-research/concon) | 0 |
+| 55 | Cut out and Replay: A Simple yet Versatile Strategy for Multi-Label Online Continual Learning | ICML | 2025 | [code](https://github.com/wxr99/Cut-Replay) | 0 |
+| 56 | Continual Generalized Category Discovery: Learning and Forgetting from a Bayesian Perspective | ICML | 2025 | [code](https://github.com/daihao42/VB-CGCD) | 0 |
+| 57 | Autoencoder-Based Hybrid Replay for Class-Incremental Learning | ICML | 2025 |  | 0 |
+| 58 | Probabilistic Group Mask Guided Discrete Optimization for Incremental Learning | ICML | 2025 | [code](https://github.com/njustkmg/ICML25-PGM) | 0 |
+| 59 | Large Continual Instruction Assistant | ICML | 2025 | [code](https://github.com/JingyangQiao/CoIN) | 0 |
+| 60 | TreeLoRA: Efficient Continual Learning via Layer-Wise LoRAs Guided by a Hierarchical Gradient-Similarity Tree | ICML | 2025 |  | 0 |
+| 61 | Upweighting Easy Samples in Fine-Tuning Mitigates Forgetting | ICML | 2025 |  | 0 |
+| 62 | Language Guided Concept Bottleneck Models for Interpretable Continual Learning | CVPR | 2025 | [code](https://github.com/FisherCats/CLG-CBM) | 0 |
+| 63 | Dynamic Integration of Task-Specific Adapters for Class Incremental Learning | CVPR | 2025 |  | 0 |
+| 64 | Towards Continual Universal Segmentation | CVPR | 2025 |  | 0 |
+| 65 | Activating Sparse Part Concepts for 3D Class Incremental Learning | CVPR | 2025 | [code](https://github.com/zhenyatian/ILPC) | 0 |
+| 66 | Think Small, Act Big: Primitive Prompt Learning for Lifelong Robot Manipulation | CVPR | 2025 |  | 0 |
+| 67 | CL-LoRA: Continual Low-Rank Adaptation for Rehearsal-Free Class-Incremental Learning | CVPR | 2025 | [code](https://github.com/JiangpengHe/CL-LoRA) | 0 |
+| 68 | CoMBO: Conflict Mitigation via Branched Optimization for Class Incremental Segmentation | CVPR | 2025 | [code](https://guangyu-ryan.github.io/CoMBO) | 0 |
+| 69 | BiLoRA: Almost-orthogonal Parameter Spaces for Continual Learning | CVPR | 2025 | [code](https://github.com/yifeiacc/BiLoRA) | 0 |
+| 70 | Attraction Diminishing and Distributing for Few-Shot Class-Incremental Learning | CVPR | 2025 |  | 0 |
+| 71 | Incremental Object Keypoint Learning | CVPR | 2025 |  | 0 |
+| 72 | Enhancing Online Continual Learning with Plug-and-Play State Space Model and Class-Conditional Mixture of Discretization | CVPR | 2025 | [code](https://github.com/MyToumaKazusa/S6MOD) | 0 |
+| 73 | AdaDARE-gamma: Balancing Stability and Plasticity in Multi-modal LLMs through Efficient Adaptation | CVPR | 2025 |  | 0 |
+| 74 | SEC-Prompt: Semantic Complementary Prompting for Few-Shot Class-Incremental Learning | CVPR | 2025 |  | 0 |
+| 75 | Knowledge Memorization and Rumination for Pre-trained Model-based Class-Incremental Learning | CVPR | 2025 | [code](https://github.com/Zi-Jian-Gao/Moal) | 0 |
+| 76 | Advancing Multiple Instance Learning with Continual Learning for Whole Slide Imaging | CVPR | 2025 |  | 0 |
+| 77 | Revisiting Generative Replay for Class Incremental Object Detection | CVPR | 2025 | [code](https://github.com/qiangzai-lv/RGR-IOD) | 0 |
+| 78 | Dual Consolidation for Pre-Trained Model-Based Domain-Incremental Learning | CVPR | 2025 | [code](https://github.com/Estrella-fugaz/CVPR25-Duct) | 0 |
+| 79 | Online Task-Free Continual Learning via Dynamic Expansionable Memory Distribution | CVPR | 2025 | [code](https://github.com/dtuzi123/DEMD) | 0 |
+| 80 | H2ST: Hierarchical Two-Sample Tests for Continual Out-of-Distribution Detection | CVPR | 2025 | [code](https://github.com/YuhangLiuu/H2ST) | 0 |
+| 81 | KAC: Kolmogorov-Arnold Classifier for Continual Learning | CVPR | 2025 | [code](https://github.com/Ethanhuhuhu/KAC) | 0 |
+| 82 | FALCON: Fairness Learning via Contrastive Attention Approach to Continual Semantic Scene Understanding | CVPR | 2025 |  | 0 |
+| 83 | Stacking Brick by Brick: Aligned Feature Isolation for Incremental Face Forgery Detection | CVPR | 2025 | [code](https://github.com/beautyremain/SUR-LID) | 0 |
+| 84 | T-CIL: Temperature Scaling using Adversarial Perturbation for Calibration in Class-Incremental Learning | CVPR | 2025 |  | 0 |
+| 85 | LoRA Subtraction for Drift-Resistant Space in Exemplar-Free Continual Learning | CVPR | 2025 | [code](https://github.com/scarlet0703/LoRA-Sub-DRS) | 0 |
+| 86 | Tripartite Weight-Space Ensemble for Few-Shot Class-Incremental Learning | CVPR | 2025 |  | 0 |
+| 87 | Unsupervised Continual Domain Shift Learning with Multi-Prototype Modeling | CVPR | 2025 |  | 0 |
+| 88 | Self-Expansion of Pre-trained Models with Mixture of Adapters for Continual Learning | CVPR | 2025 | [code](https://github.com/huiyiwang01/SEMA-CL) | 0 |
+| 89 | Enhancing Few-Shot Class-Incremental Learning via Training-Free Bi-Level Modality Calibration | CVPR | 2025 | [code](https://github.com/yychen016/BiMC) | 0 |
+| 90 | Reducing Class-wise Confusion for Incremental Learning with Disentangled Manifolds | CVPR | 2025 | [code](https://github.com/lilyht/CREATE) | 0 |
+| 91 | ProtoDepth: Unsupervised Continual Depth Completion with Prototypes | CVPR | 2025 | [code](https://github.com/patrickqrim/ProtoDepth) | 0 |
+| 92 | Beyond Background Shift: Rethinking Instance Replay in Continual Semantic Segmentation | CVPR | 2025 | [code](https://github.com/YikeYin97/EIR) | 0 |
+| 93 | Do Your Best and Get Enough Rest for Continual Learning | CVPR | 2025 | [code](https://github.com/hankyul2/ViewBatchModel) | 0 |
+| 94 | Task-Agnostic Guided Feature Expansion for Class-Incremental Learning | CVPR | 2025 | [code](https://github.com/bwnzheng/TagFex_CVPR2025) | 0 |
+| 95 | ConceptGuard: Continual Personalized Text-to-Image Generation with Forgetting and Confusion Mitigation | CVPR | 2025 |  | 0 |
+| 96 | Synthetic Data is an Elegant GIFT for Continual Vision-Language Models | CVPR | 2025 | [code](https://github.com/Luo-Jiaming/GIFT_CL) | 0 |
+| 97 | Rethinking Query-based Transformer for Continual Image Segmentation | CVPR | 2025 | [code](https://github.com/SooLab/SimCIS) | 0 |
+| 98 | Boosting Domain Incremental Learning: Selecting the Optimal Parameters is All You Need | CVPR | 2025 | [code](https://github.com/qwangcv/SOYO) | 0 |
+| 99 | Order-Robust Class Incremental Learning: Graph-Driven Dynamic Similarity Grouping | CVPR | 2025 | [code](https://github.com/AIGNLAI/GDDSG) | 0 |
+| 100 | Adapter Merging with Centroid Prototype Mapping for Scalable Class-Incremental Learning | CVPR | 2025 | [code](https://github.com/tf63/ACMap) | 0 |
+| 101 | AVQACL: A Novel Benchmark for Audio-Visual Question Answering Continual Learning | CVPR | 2025 | [code](https://github.com/kx-wu/CVPR2025_AVQACL) | 0 |
+| 102 | Handling Spatial-Temporal Data Heterogeneity for Federated Continual Learning via Tail Anchor | CVPR | 2025 | [code](https://github.com/SkyOfBeginning/FedTA_CVPR2025) | 0 |
+| 103 | One-for-More: Continual Diffusion Model for Anomaly Detection | CVPR | 2025 |  | 0 |
+| 104 | Learning Conditional Space-Time Prompt Distributions for Video Class-Incremental Learning | CVPR | 2025 | [code](https://github.com/Renovamen/CoSTEP) | 0 |
+| 105 | Prototype antithesis for biological few-shot class-incremental learning | ICLR | 2025 |  | 0 |
+| 106 | Coreset Selection via Reducible Loss in Continual Learning | ICLR | 2025 | [code](https://github.com/RuilinTong/CSReL-Coreset-CL) | 0 |
+| 107 | LOIRE: LifelOng learning on Incremental data via pre-trained language model gRowth Efficiently | ICLR | 2025 |  | 0 |
+| 108 | Active Learning for Continual Learning: Keeping the Past Alive in the Present | ICLR | 2025 |  | 0 |
+| 109 | TSVD: Bridging Theory and Practice in Continual Learning with Pre-trained Models | ICLR | 2025 | [code](https://github.com/liangzu/tsvd) | 0 |
+| 110 | On Large Language Model Continual Unlearning | ICLR | 2025 | [code](https://github.com/GCYZSL/O3-LLM-UNLEARNING) | 0 |
+| 111 | SD-LoRA: Scalable Decoupled Low-Rank Adaptation for Class Incremental Learning | ICLR | 2025 | [code](https://github.com/WuYichen-97/SD-Lora-CL) | 0 |
+| 112 | Federated Class-Incremental Learning: A Hybrid Approach Using Latent Exemplars and Data-Free Techniques to Address Local and Global Forgetting | ICLR | 2025 |  | 0 |
+| 113 | ADAPT: Attentive Self-Distillation and Dual-Decoder Prediction Fusion for Continual Panoptic Segmentation | ICLR | 2025 | [code](https://github.com/Ze-Yang/ADAPT) | 0 |
+| 114 | Semantic Aware Representation Learning for Lifelong Learning | ICLR | 2025 | [code](https://github.com/NeurAI-Lab/SARL.git) | 0 |
+| 115 | Spurious Forgetting in Continual Learning of Language Models | ICLR | 2025 | [code](https://github.com/zzz47zzz/spurious-forgetting) | 0 |
+| 116 | CLDyB: Towards Dynamic Benchmarking for Continual Learning with Pre-trained Models | ICLR | 2025 | [code](https://github.com/szc12153/CLDyB) | 0 |
+| 117 | Theory on Mixture-of-Experts in Continual Learning | ICLR | 2025 |  | 0 |
+| 118 | Boosting Multiple Views for pretrained-based Continual Learning | ICLR | 2025 |  | 0 |
+| 119 | STAR: Stability-Inducing Weight Perturbation for Continual Learning | ICLR | 2025 | [code](https://github.com/Gnomy17/STAR_CL) | 0 |
+| 120 | Optimal Protocols for Continual Learning via Statistical Physics and Control Theory | ICLR | 2025 |  | 0 |
+| 121 | Convergence and Implicit Bias of Gradient Descent on Continual Linear Classification | ICLR | 2025 |  | 0 |
+| 122 | Unlocking the Power of Function Vectors for Characterizing and Mitigating Catastrophic Forgetting in Continual Instruction Tuning | ICLR | 2025 | [code](https://github.com/GangweiJiang/FvForgetting) | 0 |
+| 123 | A Second-Order Perspective on Model Compositionality and Incremental Learning | ICLR | 2025 | [code](https://github.com/aimagelab/mammoth) | 0 |
+| 124 | C-CLIP: Multimodal Continual Learning for Vision-Language Model | ICLR | 2025 | [code](https://github.com/SmallPigPeppa/C-CLIP) | 0 |
+| 125 | Prevalence of Negative Transfer in Continual Reinforcement Learning: Analyses and a Simple Baseline | ICLR | 2025 | [code](https://github.com/hongjoon0805/Reset-Distill.git) | 0 |
+| 126 | Adapt-∞: Scalable Continual Multimodal Instruction Tuning via Dynamic Data Selection | ICLR | 2025 | [code](https://github.com/adymaharana/adapt-inf) | 0 |
+| 127 | Learning Continually by Spectral Regularization | ICLR | 2025 |  | 0 |
+| 128 | Self-Normalized Resets for Plasticity in Continual Learning | ICLR | 2025 | [code](https://github.com/ajozefiak/SelfNormalizedResets) | 0 |
+| 129 | PseDet: Revisiting the Power of Pseudo Label in Incremental Object Detection | ICLR | 2025 | [code](https://github.com/wang-qiuchen/PseDet) | 0 |
+| 130 | Meta-Continual Learning of Neural Fields | ICLR | 2025 | [code](https://github.com/seungyoon-woo/MCL-NF) | 0 |
+| 131 | Vision and Language Synergy for Rehearsal Free Continual Learning | ICLR | 2025 | [code](https://github.com/anwarmaxsum/LEAPGEN) | 0 |
+| 132 | Advancing Prompt-based Methods for Replay-Independent General Continual Learning | ICLR | 2025 | [code](https://github.com/kangzhiq/MISA) | 0 |
+| 133 | HiDe-PET: Continual Learning via Hierarchical Decomposition of Parameter-Efficient Tuning | TPAMI | 2025 |  | 0 |
+| 134 | Adaptive Score Alignment Learning for Continual Perceptual Quality Assessment of 360-Degree Videos in Virtual Reality | VR-TVCG | 2025 | [code](https://github.com/ZhouKanglei/ASAL_CVQA) | 0 |
 | 95| A Comprehensive Survey of Continual Learning: Theory, Method and Application| TPAMI| 2024|| 851 |
 | 96| Continual Learning with Pre-Trained Models: A Survey| IJCAI | 2024|[code](https://github.com/sun-hailong/LAMDA-PILOT)| 75|
 | 97| Elastic Feature Consolidation For Cold Start Exemplar-Free Incremental Learning| ICLR | 2024| [code](https://github.com/simomagi/elastic_feature_consolidation) | 0|
