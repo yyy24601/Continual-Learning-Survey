@@ -153,16 +153,8 @@ All data are sourced from Google Scholar. However, the 'cites/year' values for m
 | 72| AVQACL: A Novel Benchmark for Audio-Visual Question Answering Continual Learning| CVPR | 2025| [code](https://github.com/kx-wu/CVPR2025_AVQACL)| 0|
 | 73| Handling Spatial-Temporal Data Heterogeneity for Federated Continual Learning via Tail Anchor| CVPR | 2025| [code](https://github.com/SkyOfBeginning/FedTA_CVPR2025)| 0|
 | 74| One-for-More: Continual Diffusion Model for Anomaly Detection| CVPR | 2025|| 0|
-| 75| Sorry, Still on the Way: Enforcing Diversity and Performance in Learning Next in Continual Image Classification| CVPR | 2025| [code](https://github.com/NeurAI-Lab/STL-CVPR2025)| 0|
-| 76| Continual Domain Adaptation with Multiple Labeled Target Domains based Generative Replay| CVPR | 2025|| 0|
-| 77| Runtime Logic Injection for Dynamic Backdoor Defense in Continual Learning| CVPR | 2025|| 0|
-| 78| H2M-Net: Hierarchical Human Memory Network for Robust Continual Referring Expression Comprehension| CVPR | 2025|| 0|
-| 79| Target-oriented Knowledge Modelling for Task-Incremental Dense Scene Understanding| CVPR | 2025|| 0|
-| 80| Multi-Task Consistent Replay for Online Continual Learning| CVPR | 2025|| 0|
-| 81| Past-Future-guided Redundancy Filtering for Class-Incremental Learning| CVPR | 2025|| 0|
-| 82| Overcoming Negative Pretraining for Class-incremental Learning| CVPR | 2025|| 0|
 | 83| Prevalence of Negative Transfer in Continual Learning-based Deep 3D Object Detection| CVPR | 2025| [code](https://github.com/hongjoon0805/Reset-Distill.git)| 0|
-| 84| Adapt-$\infty$: Scalable Continual Multimodal Adaptation via Iterative Schema Registration| ICLR | 2025| [code](https://github.com/adymaharana/adapt-inf)| 0|
+| 84| Adapt-∞: Scalable Continual Multimodal Instruction Tuning via Dynamic Data Selection| ICLR | 2025| [code](https://github.com/adymaharana/adapt-inf)| 0|
 | 85| Learning Continually by Spectral Regularization| ICLR | 2025|| 0|
 | 86| Self-Normalized Resets for Plasticity in Continual Learning| ICLR | 2025| [code](https://github.com/ajozefiak/SelfNormalizedResets)| 0|
 | 87| PseDet: Revisiting the Power of Pseudo Labels for Class-Incremental Object Detection| ICLR | 2025| [code](https://github.com/wang-qiuchen/PseDet)| 0|
